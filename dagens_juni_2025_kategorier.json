@@ -1,0 +1,814 @@
+{
+  "2025-06-03": [
+    {
+      "id": "eaf42a35-5027-453b-9f8d-41d92386893e",
+      "typ": "fun facts",
+      "titel": "Dagens fun fact",
+      "ikon": "lightbulb.fill",
+      "text": "Sniglar kan sova i tre år",
+      "färg": "#1E90FF",
+      "detaljtext": "De går i dvala"
+    },
+    {
+      "id": "eb73cb51-327d-49b3-bc46-05435e17864a",
+      "typ": "ekonomi",
+      "titel": "Dagens ekonomifakta",
+      "ikon": "banknote.fill",
+      "text": "Bitcoin skapades 2009",
+      "färg": "#1E90FF",
+      "detaljtext": "Av en person kallad Satoshi Nakamoto"
+    },
+    {
+      "id": "d1f3ef00-3b98-4768-8e84-b5168e2525df",
+      "typ": "sport",
+      "titel": "Dagens sportfakta",
+      "ikon": "sportscourt.fill",
+      "text": "OS hölls i Stockholm 1912",
+      "färg": "#1E90FF",
+      "detaljtext": "Det kallades 'Solskensolympiaden'"
+    }
+  ],
+  "2025-06-04": [
+    {
+      "id": "56a35b2f-25b4-4632-a8a3-749f33b41a6f",
+      "typ": "historia",
+      "titel": "Dagens historiska händelse",
+      "ikon": "clock.arrow.circlepath",
+      "text": "Dagen D inträffade",
+      "färg": "#1E90FF",
+      "detaljtext": "1944 landsteg allierade i Normandie"
+    },
+    {
+      "id": "a2608c26-2376-4030-a858-73068bfa9521",
+      "typ": "fun facts",
+      "titel": "Dagens fun fact",
+      "ikon": "lightbulb.fill",
+      "text": "Honung blir aldrig gammal",
+      "färg": "#1E90FF",
+      "detaljtext": "De går i dvala"
+    },
+    {
+      "id": "8e9d3a9e-c7de-43aa-8ebd-0b28b1a21227",
+      "typ": "vetenskap",
+      "titel": "Dagens vetenskap",
+      "ikon": "atom",
+      "text": "Einsteins relativitetsteori publicerades",
+      "färg": "#1E90FF",
+      "detaljtext": "1905, förändrade fysiken"
+    }
+  ],
+  "2025-06-05": [
+    {
+      "id": "162a6acb-fb5d-415b-8fe7-f9d329876511",
+      "typ": "namn",
+      "titel": "Dagens namn",
+      "ikon": "person.crop.circle",
+      "text": "Jonas & Joel",
+      "färg": "#1E90FF",
+      "detaljtext": "Namnsdag idag!"
+    },
+    {
+      "id": "af2185d3-1837-46bd-8f66-ee1b2dca5ec4",
+      "typ": "vetenskap",
+      "titel": "Dagens vetenskap",
+      "ikon": "atom",
+      "text": "Penicillin upptäcktes 1928",
+      "färg": "#1E90FF",
+      "detaljtext": "Av Alexander Fleming"
+    },
+    {
+      "id": "caeb9b56-c4c4-4e65-9f00-2d152885be53",
+      "typ": "ekonomi",
+      "titel": "Dagens ekonomifakta",
+      "ikon": "banknote.fill",
+      "text": "Börskraschen 1929",
+      "färg": "#1E90FF",
+      "detaljtext": "Startade The Great Depression"
+    }
+  ],
+  "2025-06-06": [
+    {
+      "id": "bc6c6ae9-b5bd-4611-99f0-2091c3d29f83",
+      "typ": "ord",
+      "titel": "Dagens ord",
+      "ikon": "book.fill",
+      "text": "Ambivalens",
+      "färg": "#1E90FF",
+      "detaljtext": "Att skjuta upp något"
+    },
+    {
+      "id": "cf72d277-d3b1-4b15-9ad0-9a0d52b43a07",
+      "typ": "fun facts",
+      "titel": "Dagens fun fact",
+      "ikon": "lightbulb.fill",
+      "text": "Honung blir aldrig gammal",
+      "färg": "#1E90FF",
+      "detaljtext": "Honung har antiseptiska egenskaper"
+    },
+    {
+      "id": "1ecca08a-7ca3-4046-bf03-19d69788686d",
+      "typ": "ekonomi",
+      "titel": "Dagens ekonomifakta",
+      "ikon": "banknote.fill",
+      "text": "Bitcoin skapades 2009",
+      "färg": "#1E90FF",
+      "detaljtext": "Startade The Great Depression"
+    }
+  ],
+  "2025-06-07": [
+    {
+      "id": "cb9c8b03-717b-4007-84a0-c46d1af7ce8d",
+      "typ": "fun facts",
+      "titel": "Dagens fun fact",
+      "ikon": "lightbulb.fill",
+      "text": "Honung blir aldrig gammal",
+      "färg": "#1E90FF",
+      "detaljtext": "De går i dvala"
+    },
+    {
+      "id": "794a6984-9840-469c-9712-5fccae49fe4f",
+      "typ": "historia",
+      "titel": "Dagens historiska händelse",
+      "ikon": "clock.arrow.circlepath",
+      "text": "Berlinmuren föll",
+      "färg": "#1E90FF",
+      "detaljtext": "1989 öppnades gränserna"
+    },
+    {
+      "id": "bd999742-80c3-4e12-97f1-276dbc1c3117",
+      "typ": "namn",
+      "titel": "Dagens namn",
+      "ikon": "person.crop.circle",
+      "text": "Jonas & Joel",
+      "färg": "#1E90FF",
+      "detaljtext": "Namnsdag enligt almanackan"
+    }
+  ],
+  "2025-06-08": [
+    {
+      "id": "573c40db-361e-47a3-a6bb-faeb1b44738e",
+      "typ": "sport",
+      "titel": "Dagens sportfakta",
+      "ikon": "sportscourt.fill",
+      "text": "Zlatan gjorde sitt första mål i Ajax",
+      "färg": "#1E90FF",
+      "detaljtext": "Det kallades 'Solskensolympiaden'"
+    },
+    {
+      "id": "dd911d92-aaad-473f-9760-0dc1c94addad",
+      "typ": "historia",
+      "titel": "Dagens historiska händelse",
+      "ikon": "clock.arrow.circlepath",
+      "text": "Berlinmuren föll",
+      "färg": "#1E90FF",
+      "detaljtext": "1944 landsteg allierade i Normandie"
+    },
+    {
+      "id": "35f87af2-978b-4a8c-8902-e5aee40d29ed",
+      "typ": "namn",
+      "titel": "Dagens namn",
+      "ikon": "person.crop.circle",
+      "text": "Jonas & Joel",
+      "färg": "#1E90FF",
+      "detaljtext": "Namnsdag enligt almanackan"
+    }
+  ],
+  "2025-06-09": [
+    {
+      "id": "17930bbf-233c-47d3-9a16-5a77aaf5ba2f",
+      "typ": "fun facts",
+      "titel": "Dagens fun fact",
+      "ikon": "lightbulb.fill",
+      "text": "Sniglar kan sova i tre år",
+      "färg": "#1E90FF",
+      "detaljtext": "Honung har antiseptiska egenskaper"
+    },
+    {
+      "id": "cdd0ef32-4145-462f-8460-601d20be30a3",
+      "typ": "namn",
+      "titel": "Dagens namn",
+      "ikon": "person.crop.circle",
+      "text": "Jonas & Joel",
+      "färg": "#1E90FF",
+      "detaljtext": "Namnsdag enligt almanackan"
+    },
+    {
+      "id": "a82f1001-fab4-450f-9b49-d07a3a93a1c4",
+      "typ": "ord",
+      "titel": "Dagens ord",
+      "ikon": "book.fill",
+      "text": "Episk",
+      "färg": "#1E90FF",
+      "detaljtext": "Känslomässig kluvenhet"
+    }
+  ],
+  "2025-06-10": [
+    {
+      "id": "c716c618-263d-4c72-b7a3-e08859cb1459",
+      "typ": "ord",
+      "titel": "Dagens ord",
+      "ikon": "book.fill",
+      "text": "Ambivalens",
+      "färg": "#1E90FF",
+      "detaljtext": "Storslagen och berättande"
+    },
+    {
+      "id": "8239b102-e36e-4387-9dda-c7517af0d504",
+      "typ": "citat",
+      "titel": "Dagens citat",
+      "ikon": "quote.bubble.fill",
+      "text": "Stay hungry, stay foolish.",
+      "färg": "#1E90FF",
+      "detaljtext": "– Sokrates"
+    },
+    {
+      "id": "b5ba3249-4d04-47e4-8a42-fabfceec6e3e",
+      "typ": "vetenskap",
+      "titel": "Dagens vetenskap",
+      "ikon": "atom",
+      "text": "Einsteins relativitetsteori publicerades",
+      "färg": "#1E90FF",
+      "detaljtext": "Av Alexander Fleming"
+    }
+  ],
+  "2025-06-11": [
+    {
+      "id": "d827f62b-e1b9-4186-b1a8-c6e8cc95ee7a",
+      "typ": "fun facts",
+      "titel": "Dagens fun fact",
+      "ikon": "lightbulb.fill",
+      "text": "Sniglar kan sova i tre år",
+      "färg": "#1E90FF",
+      "detaljtext": "De går i dvala"
+    },
+    {
+      "id": "79bd98b3-df6c-443c-a4df-e472af4bc7d8",
+      "typ": "vetenskap",
+      "titel": "Dagens vetenskap",
+      "ikon": "atom",
+      "text": "Penicillin upptäcktes 1928",
+      "färg": "#1E90FF",
+      "detaljtext": "1905, förändrade fysiken"
+    },
+    {
+      "id": "b7c73b42-0851-4bc1-bd1c-af4dee367c94",
+      "typ": "film & TV",
+      "titel": "Dagens filmfakta",
+      "ikon": "film.fill",
+      "text": "Star Wars hade premiär 1977",
+      "färg": "#1E90FF",
+      "detaljtext": "Regisserad av George Lucas"
+    }
+  ],
+  "2025-06-12": [
+    {
+      "id": "173de570-1c01-4711-a4df-386e56a0e940",
+      "typ": "fun facts",
+      "titel": "Dagens fun fact",
+      "ikon": "lightbulb.fill",
+      "text": "Sniglar kan sova i tre år",
+      "färg": "#1E90FF",
+      "detaljtext": "Honung har antiseptiska egenskaper"
+    },
+    {
+      "id": "6c0d7c51-c070-4ddd-9455-e49cc949feea",
+      "typ": "sport",
+      "titel": "Dagens sportfakta",
+      "ikon": "sportscourt.fill",
+      "text": "Zlatan gjorde sitt första mål i Ajax",
+      "färg": "#1E90FF",
+      "detaljtext": "Mot Sparta Rotterdam"
+    },
+    {
+      "id": "81e1b9cd-7031-45d3-9200-75b7caa22d3f",
+      "typ": "historia",
+      "titel": "Dagens historiska händelse",
+      "ikon": "clock.arrow.circlepath",
+      "text": "Dagen D inträffade",
+      "färg": "#1E90FF",
+      "detaljtext": "1989 öppnades gränserna"
+    }
+  ],
+  "2025-06-13": [
+    {
+      "id": "2d0cdcb9-75e4-491f-a0c2-cd0801f6b7fa",
+      "typ": "sport",
+      "titel": "Dagens sportfakta",
+      "ikon": "sportscourt.fill",
+      "text": "OS hölls i Stockholm 1912",
+      "färg": "#1E90FF",
+      "detaljtext": "Mot Sparta Rotterdam"
+    },
+    {
+      "id": "b897e735-928e-45f3-a9d3-c915c213db64",
+      "typ": "vetenskap",
+      "titel": "Dagens vetenskap",
+      "ikon": "atom",
+      "text": "Einsteins relativitetsteori publicerades",
+      "färg": "#1E90FF",
+      "detaljtext": "1905, förändrade fysiken"
+    },
+    {
+      "id": "437360f6-da25-43a7-9f86-542781a649d4",
+      "typ": "ord",
+      "titel": "Dagens ord",
+      "ikon": "book.fill",
+      "text": "Paradigm",
+      "färg": "#1E90FF",
+      "detaljtext": "Storslagen och berättande"
+    }
+  ],
+  "2025-06-14": [
+    {
+      "id": "f0a1e3e8-81a9-4529-9f08-1200f885a9db",
+      "typ": "ekonomi",
+      "titel": "Dagens ekonomifakta",
+      "ikon": "banknote.fill",
+      "text": "Börskraschen 1929",
+      "färg": "#1E90FF",
+      "detaljtext": "Startade The Great Depression"
+    },
+    {
+      "id": "87583e1a-87a9-4594-ba27-5fb444a28be1",
+      "typ": "film & TV",
+      "titel": "Dagens filmfakta",
+      "ikon": "film.fill",
+      "text": "Star Wars hade premiär 1977",
+      "färg": "#1E90FF",
+      "detaljtext": "1997 – samma år den släpptes"
+    },
+    {
+      "id": "57aa3771-c9e5-4cd0-beee-00bdd3a1b3d3",
+      "typ": "vetenskap",
+      "titel": "Dagens vetenskap",
+      "ikon": "atom",
+      "text": "Einsteins relativitetsteori publicerades",
+      "färg": "#1E90FF",
+      "detaljtext": "Av Alexander Fleming"
+    }
+  ],
+  "2025-06-15": [
+    {
+      "id": "79b2595d-a847-4a18-b4a6-8a8487643968",
+      "typ": "sport",
+      "titel": "Dagens sportfakta",
+      "ikon": "sportscourt.fill",
+      "text": "OS hölls i Stockholm 1912",
+      "färg": "#1E90FF",
+      "detaljtext": "Det kallades 'Solskensolympiaden'"
+    },
+    {
+      "id": "8e1eea51-e0bf-4b45-907b-c7aee96e1cc3",
+      "typ": "ord",
+      "titel": "Dagens ord",
+      "ikon": "book.fill",
+      "text": "Ambivalens",
+      "färg": "#1E90FF",
+      "detaljtext": "Att skjuta upp något"
+    },
+    {
+      "id": "6ff0100b-986c-4de4-bbbf-8263dceeb6d2",
+      "typ": "historia",
+      "titel": "Dagens historiska händelse",
+      "ikon": "clock.arrow.circlepath",
+      "text": "Dagen D inträffade",
+      "färg": "#1E90FF",
+      "detaljtext": "1944 landsteg allierade i Normandie"
+    }
+  ],
+  "2025-06-16": [
+    {
+      "id": "44f82a3d-ee88-4f08-b04d-c2332f3a6421",
+      "typ": "ord",
+      "titel": "Dagens ord",
+      "ikon": "book.fill",
+      "text": "Episk",
+      "färg": "#1E90FF",
+      "detaljtext": "Känslomässig kluvenhet"
+    },
+    {
+      "id": "20dc6ce9-cb78-417d-ae2b-696863de2577",
+      "typ": "historia",
+      "titel": "Dagens historiska händelse",
+      "ikon": "clock.arrow.circlepath",
+      "text": "Berlinmuren föll",
+      "färg": "#1E90FF",
+      "detaljtext": "1989 öppnades gränserna"
+    },
+    {
+      "id": "7aba5aee-b9db-4235-81a6-6e54e4341ab7",
+      "typ": "vetenskap",
+      "titel": "Dagens vetenskap",
+      "ikon": "atom",
+      "text": "Penicillin upptäcktes 1928",
+      "färg": "#1E90FF",
+      "detaljtext": "Av Alexander Fleming"
+    }
+  ],
+  "2025-06-17": [
+    {
+      "id": "bc1a2465-2ca4-4998-a0c7-bc6f9259b3e1",
+      "typ": "ekonomi",
+      "titel": "Dagens ekonomifakta",
+      "ikon": "banknote.fill",
+      "text": "Börskraschen 1929",
+      "färg": "#1E90FF",
+      "detaljtext": "Av en person kallad Satoshi Nakamoto"
+    },
+    {
+      "id": "fc64ab1a-79b9-417f-b900-11f717462725",
+      "typ": "namn",
+      "titel": "Dagens namn",
+      "ikon": "person.crop.circle",
+      "text": "Lars & Urban",
+      "färg": "#1E90FF",
+      "detaljtext": "Namnsdag enligt almanackan"
+    },
+    {
+      "id": "4765b824-51e8-4e85-9839-922656168448",
+      "typ": "sport",
+      "titel": "Dagens sportfakta",
+      "ikon": "sportscourt.fill",
+      "text": "OS hölls i Stockholm 1912",
+      "färg": "#1E90FF",
+      "detaljtext": "Mot Sparta Rotterdam"
+    }
+  ],
+  "2025-06-18": [
+    {
+      "id": "498f61f4-8895-4bfd-b72d-4bcbeeb9ef39",
+      "typ": "fun facts",
+      "titel": "Dagens fun fact",
+      "ikon": "lightbulb.fill",
+      "text": "Sniglar kan sova i tre år",
+      "färg": "#1E90FF",
+      "detaljtext": "De går i dvala"
+    },
+    {
+      "id": "7c72746b-7ed5-4328-9874-e8d325fe2964",
+      "typ": "namn",
+      "titel": "Dagens namn",
+      "ikon": "person.crop.circle",
+      "text": "Lars & Urban",
+      "färg": "#1E90FF",
+      "detaljtext": "Namnsdag enligt almanackan"
+    },
+    {
+      "id": "ad7ad9b4-83f6-4b6b-a996-72a33b473ec6",
+      "typ": "sport",
+      "titel": "Dagens sportfakta",
+      "ikon": "sportscourt.fill",
+      "text": "OS hölls i Stockholm 1912",
+      "färg": "#1E90FF",
+      "detaljtext": "Det kallades 'Solskensolympiaden'"
+    }
+  ],
+  "2025-06-19": [
+    {
+      "id": "2de4a76d-50da-47f5-ad07-ff01c47c72eb",
+      "typ": "sport",
+      "titel": "Dagens sportfakta",
+      "ikon": "sportscourt.fill",
+      "text": "OS hölls i Stockholm 1912",
+      "färg": "#1E90FF",
+      "detaljtext": "Det kallades 'Solskensolympiaden'"
+    },
+    {
+      "id": "c2c191ed-abca-4fc5-981e-184c14bfdb4c",
+      "typ": "film & TV",
+      "titel": "Dagens filmfakta",
+      "ikon": "film.fill",
+      "text": "Titanic vann 11 Oscars",
+      "färg": "#1E90FF",
+      "detaljtext": "1997 – samma år den släpptes"
+    },
+    {
+      "id": "0f6b110f-e018-441c-a9dd-5659bb9f5665",
+      "typ": "citat",
+      "titel": "Dagens citat",
+      "ikon": "quote.bubble.fill",
+      "text": "Stay hungry, stay foolish.",
+      "färg": "#1E90FF",
+      "detaljtext": "– Steve Jobs"
+    }
+  ],
+  "2025-06-20": [
+    {
+      "id": "59aa8752-07e9-499a-bc6f-b0b9258ccb98",
+      "typ": "film & TV",
+      "titel": "Dagens filmfakta",
+      "ikon": "film.fill",
+      "text": "Titanic vann 11 Oscars",
+      "färg": "#1E90FF",
+      "detaljtext": "Regisserad av George Lucas"
+    },
+    {
+      "id": "1ef9891b-8f59-4565-b321-01304414de8d",
+      "typ": "sport",
+      "titel": "Dagens sportfakta",
+      "ikon": "sportscourt.fill",
+      "text": "Zlatan gjorde sitt första mål i Ajax",
+      "färg": "#1E90FF",
+      "detaljtext": "Det kallades 'Solskensolympiaden'"
+    },
+    {
+      "id": "a9a76eca-e9fa-4266-8626-2ca515aa418a",
+      "typ": "citat",
+      "titel": "Dagens citat",
+      "ikon": "quote.bubble.fill",
+      "text": "The only true wisdom is in knowing you know nothing.",
+      "färg": "#1E90FF",
+      "detaljtext": "– Sokrates"
+    }
+  ],
+  "2025-06-21": [
+    {
+      "id": "73010116-90ec-40f2-a8d6-ef0018724455",
+      "typ": "namn",
+      "titel": "Dagens namn",
+      "ikon": "person.crop.circle",
+      "text": "Jonas & Joel",
+      "färg": "#1E90FF",
+      "detaljtext": "Namnsdag enligt almanackan"
+    },
+    {
+      "id": "063e1b34-40f7-4f23-9937-a0833fe116d5",
+      "typ": "citat",
+      "titel": "Dagens citat",
+      "ikon": "quote.bubble.fill",
+      "text": "The only true wisdom is in knowing you know nothing.",
+      "färg": "#1E90FF",
+      "detaljtext": "– Sokrates"
+    },
+    {
+      "id": "bb8bf4b0-6a8c-4965-b5b5-7dc02b1f1fc9",
+      "typ": "sport",
+      "titel": "Dagens sportfakta",
+      "ikon": "sportscourt.fill",
+      "text": "OS hölls i Stockholm 1912",
+      "färg": "#1E90FF",
+      "detaljtext": "Det kallades 'Solskensolympiaden'"
+    }
+  ],
+  "2025-06-22": [
+    {
+      "id": "f79616e4-eaff-4619-84ce-7f39b650bd99",
+      "typ": "historia",
+      "titel": "Dagens historiska händelse",
+      "ikon": "clock.arrow.circlepath",
+      "text": "Berlinmuren föll",
+      "färg": "#1E90FF",
+      "detaljtext": "1944 landsteg allierade i Normandie"
+    },
+    {
+      "id": "a80a309a-d651-4198-832f-f0122bb60c65",
+      "typ": "vetenskap",
+      "titel": "Dagens vetenskap",
+      "ikon": "atom",
+      "text": "Einsteins relativitetsteori publicerades",
+      "färg": "#1E90FF",
+      "detaljtext": "Av Alexander Fleming"
+    },
+    {
+      "id": "a1c8234b-e49d-413d-b84a-8fde38f63832",
+      "typ": "fun facts",
+      "titel": "Dagens fun fact",
+      "ikon": "lightbulb.fill",
+      "text": "Sniglar kan sova i tre år",
+      "färg": "#1E90FF",
+      "detaljtext": "Honung har antiseptiska egenskaper"
+    }
+  ],
+  "2025-06-23": [
+    {
+      "id": "28e26eff-0835-49c6-bb6b-865629f4cfe2",
+      "typ": "fun facts",
+      "titel": "Dagens fun fact",
+      "ikon": "lightbulb.fill",
+      "text": "Honung blir aldrig gammal",
+      "färg": "#1E90FF",
+      "detaljtext": "Honung har antiseptiska egenskaper"
+    },
+    {
+      "id": "730c185f-5276-4c41-ab2e-956cb2f77931",
+      "typ": "film & TV",
+      "titel": "Dagens filmfakta",
+      "ikon": "film.fill",
+      "text": "Star Wars hade premiär 1977",
+      "färg": "#1E90FF",
+      "detaljtext": "Regisserad av George Lucas"
+    },
+    {
+      "id": "737cf605-596b-45e2-9c80-6b456792d430",
+      "typ": "citat",
+      "titel": "Dagens citat",
+      "ikon": "quote.bubble.fill",
+      "text": "Stay hungry, stay foolish.",
+      "färg": "#1E90FF",
+      "detaljtext": "– Steve Jobs"
+    }
+  ],
+  "2025-06-24": [
+    {
+      "id": "2f8a3493-c129-4db5-b42e-299517af2fb2",
+      "typ": "vetenskap",
+      "titel": "Dagens vetenskap",
+      "ikon": "atom",
+      "text": "Penicillin upptäcktes 1928",
+      "färg": "#1E90FF",
+      "detaljtext": "Av Alexander Fleming"
+    },
+    {
+      "id": "30886154-350f-4a99-96fa-ca83d8f17dcb",
+      "typ": "namn",
+      "titel": "Dagens namn",
+      "ikon": "person.crop.circle",
+      "text": "Sara & Rebecka",
+      "färg": "#1E90FF",
+      "detaljtext": "Namnsdag idag!"
+    },
+    {
+      "id": "a71de048-6cfb-4dbb-9d7c-20c7cfc94790",
+      "typ": "sport",
+      "titel": "Dagens sportfakta",
+      "ikon": "sportscourt.fill",
+      "text": "OS hölls i Stockholm 1912",
+      "färg": "#1E90FF",
+      "detaljtext": "Mot Sparta Rotterdam"
+    }
+  ],
+  "2025-06-25": [
+    {
+      "id": "b7e09e7a-094c-438d-a4e0-79a18f3f981f",
+      "typ": "vetenskap",
+      "titel": "Dagens vetenskap",
+      "ikon": "atom",
+      "text": "Einsteins relativitetsteori publicerades",
+      "färg": "#1E90FF",
+      "detaljtext": "1905, förändrade fysiken"
+    },
+    {
+      "id": "94dc07db-55be-470c-8291-f760ea9b3827",
+      "typ": "sport",
+      "titel": "Dagens sportfakta",
+      "ikon": "sportscourt.fill",
+      "text": "OS hölls i Stockholm 1912",
+      "färg": "#1E90FF",
+      "detaljtext": "Det kallades 'Solskensolympiaden'"
+    },
+    {
+      "id": "774b114b-8b33-4da1-b6e4-64c8f10be1b8",
+      "typ": "namn",
+      "titel": "Dagens namn",
+      "ikon": "person.crop.circle",
+      "text": "Anna & Berit",
+      "färg": "#1E90FF",
+      "detaljtext": "Namnsdag idag!"
+    }
+  ],
+  "2025-06-26": [
+    {
+      "id": "254a0d28-73aa-454c-a674-c163b9f8509b",
+      "typ": "fun facts",
+      "titel": "Dagens fun fact",
+      "ikon": "lightbulb.fill",
+      "text": "Honung blir aldrig gammal",
+      "färg": "#1E90FF",
+      "detaljtext": "Honung har antiseptiska egenskaper"
+    },
+    {
+      "id": "54cc3b79-6141-4212-8bc0-f513d8582b63",
+      "typ": "vetenskap",
+      "titel": "Dagens vetenskap",
+      "ikon": "atom",
+      "text": "Einsteins relativitetsteori publicerades",
+      "färg": "#1E90FF",
+      "detaljtext": "Av Alexander Fleming"
+    },
+    {
+      "id": "8c02be8a-b651-489c-9998-080c7edd998e",
+      "typ": "ord",
+      "titel": "Dagens ord",
+      "ikon": "book.fill",
+      "text": "Prokrastinera",
+      "färg": "#1E90FF",
+      "detaljtext": "När helheten blir större än delarna"
+    }
+  ],
+  "2025-06-27": [
+    {
+      "id": "985ff659-2b8f-43f3-b71e-3d9a2a2ee144",
+      "typ": "historia",
+      "titel": "Dagens historiska händelse",
+      "ikon": "clock.arrow.circlepath",
+      "text": "Berlinmuren föll",
+      "färg": "#1E90FF",
+      "detaljtext": "1989 öppnades gränserna"
+    },
+    {
+      "id": "1c9fc36d-38a6-4665-b028-e3ed3f181b42",
+      "typ": "fun facts",
+      "titel": "Dagens fun fact",
+      "ikon": "lightbulb.fill",
+      "text": "Honung blir aldrig gammal",
+      "färg": "#1E90FF",
+      "detaljtext": "De går i dvala"
+    },
+    {
+      "id": "ecded020-9f16-49c5-9299-86a5e4213145",
+      "typ": "ord",
+      "titel": "Dagens ord",
+      "ikon": "book.fill",
+      "text": "Paradigm",
+      "färg": "#1E90FF",
+      "detaljtext": "Storslagen och berättande"
+    }
+  ],
+  "2025-06-28": [
+    {
+      "id": "3bbf4144-6642-42b8-b438-fd8691921c80",
+      "typ": "fun facts",
+      "titel": "Dagens fun fact",
+      "ikon": "lightbulb.fill",
+      "text": "Honung blir aldrig gammal",
+      "färg": "#1E90FF",
+      "detaljtext": "De går i dvala"
+    },
+    {
+      "id": "ff50a8dd-a3b5-42e6-941f-ac3291458139",
+      "typ": "ord",
+      "titel": "Dagens ord",
+      "ikon": "book.fill",
+      "text": "Paradigm",
+      "färg": "#1E90FF",
+      "detaljtext": "Storslagen och berättande"
+    },
+    {
+      "id": "957f5103-3739-45b2-be32-b0b57ad17dc7",
+      "typ": "namn",
+      "titel": "Dagens namn",
+      "ikon": "person.crop.circle",
+      "text": "Jonas & Joel",
+      "färg": "#1E90FF",
+      "detaljtext": "Namnsdag idag!"
+    }
+  ],
+  "2025-06-29": [
+    {
+      "id": "744ec4df-af15-4699-bdad-035feb82bcb7",
+      "typ": "fun facts",
+      "titel": "Dagens fun fact",
+      "ikon": "lightbulb.fill",
+      "text": "Sniglar kan sova i tre år",
+      "färg": "#1E90FF",
+      "detaljtext": "Honung har antiseptiska egenskaper"
+    },
+    {
+      "id": "dae2105e-9013-4ffe-a182-fc5de49e46fe",
+      "typ": "sport",
+      "titel": "Dagens sportfakta",
+      "ikon": "sportscourt.fill",
+      "text": "OS hölls i Stockholm 1912",
+      "färg": "#1E90FF",
+      "detaljtext": "Det kallades 'Solskensolympiaden'"
+    },
+    {
+      "id": "11505825-856e-423a-985d-80a82e822f1d",
+      "typ": "ekonomi",
+      "titel": "Dagens ekonomifakta",
+      "ikon": "banknote.fill",
+      "text": "Bitcoin skapades 2009",
+      "färg": "#1E90FF",
+      "detaljtext": "Av en person kallad Satoshi Nakamoto"
+    }
+  ],
+  "2025-06-30": [
+    {
+      "id": "b75574eb-600c-41ba-9751-47463f3f73aa",
+      "typ": "ekonomi",
+      "titel": "Dagens ekonomifakta",
+      "ikon": "banknote.fill",
+      "text": "Börskraschen 1929",
+      "färg": "#1E90FF",
+      "detaljtext": "Startade The Great Depression"
+    },
+    {
+      "id": "45c98a80-c18c-4c75-adbe-423edc453975",
+      "typ": "historia",
+      "titel": "Dagens historiska händelse",
+      "ikon": "clock.arrow.circlepath",
+      "text": "Dagen D inträffade",
+      "färg": "#1E90FF",
+      "detaljtext": "1989 öppnades gränserna"
+    },
+    {
+      "id": "c7f8389b-bee8-460f-94e8-9b6f67252c32",
+      "typ": "fun facts",
+      "titel": "Dagens fun fact",
+      "ikon": "lightbulb.fill",
+      "text": "Honung blir aldrig gammal",
+      "färg": "#1E90FF",
+      "detaljtext": "Honung har antiseptiska egenskaper"
+    }
+  ]
+}
