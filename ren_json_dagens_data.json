@@ -1,0 +1,22 @@
+{
+  "2025-06-03": [
+    {
+      "id": "eaf42a35-5027-453b-9f8d-41d92386893e",
+      "type": "fun facts",
+      "title": "Dagens fun fact",
+      "icon": "lightbulb.fill",
+      "text": "Sniglar kan sova i tre år",
+      "colorHex": "#1E90FF",
+      "detailText": "De går i dvala"
+    },
+    {
+      "id": "eb73cb51-327d-49b3-bc46-05435e17864a",
+      "type": "ekonomi",
+      "title": "Dagens ekonomifakta",
+      "icon": "banknote.fill",
+      "text": "Bitcoin skapades 2009",
+      "colorHex": "#1E90FF",
+      "detailText": "Av en person kallad Satoshi Nakamoto"
+    }
+  ]
+}
