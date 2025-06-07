@@ -1,22 +1,1586 @@
 {
-  "2025-06-03": [
+  "2025-06-07": [
     {
-      "id": "eaf42a35-5027-453b-9f8d-41d92386893e",
-      "type": "fun facts",
-      "title": "Dagens fun fact",
-      "icon": "lightbulb.fill",
-      "text": "Sniglar kan sova i tre år",
-      "colorHex": "#1E90FF",
-      "detailText": "De går i dvala"
+      "typ": "namn",
+      "titel": "Dagens namn",
+      "ikon": "person.crop.circle",
+      "text": "Robert, Robin",
+      "färg": "#1E90FF",
+      "detaljtext": "Robert: Germanskt ursprung, betyder \"strålande ära\". Robin: Engelskt smeknamn för Robert."
     },
     {
-      "id": "eb73cb51-327d-49b3-bc46-05435e17864a",
-      "type": "ekonomi",
-      "title": "Dagens ekonomifakta",
-      "icon": "banknote.fill",
-      "text": "Bitcoin skapades 2009",
-      "colorHex": "#1E90FF",
-      "detailText": "Av en person kallad Satoshi Nakamoto"
+      "typ": "fun facts",
+      "titel": "Dagens fun fact",
+      "ikon": "lightbulb.fill",
+      "text": "Myror saknar lungor",
+      "färg": "#1E90FF",
+      "detaljtext": "Istället tar de in syre genom små öppningar i kroppen som kallas spirakler."
+    },
+    {
+      "typ": "historia",
+      "titel": "Dagens historiska händelse",
+      "ikon": "clock.arrow.circlepath",
+      "text": "Muammar al-Gaddafi föddes, 1942",
+      "färg": "#1E90FF",
+      "detaljtext": "Gadaffi dog sedn 2010 under den arabiska våren"
+    },
+    {
+      "typ": "vetenskap",
+      "titel": "Dagens vetenskap",
+      "ikon": "atom",
+      "text": "Earth’s rotation is changing speed",
+      "färg": "#1E90FF",
+      "detaljtext": " It's actually slowing. This means that, on average, the length of a day increases by around 1.8 seconds per century. 600 million years ago a day lasted just 21 hours"
+    },
+    {
+      "typ": "ekonomi",
+      "titel": "Dagens ekonomifakta",
+      "ikon": "banknote.fill",
+      "text": "Finland, one of the most equal countries in the world, has grown faster than the US",
+      "färg": "#1E90FF",
+      "detaljtext": "Not only is there a lot of evidence showing that that higher inequality produces more negative economic and social outcomes, there are quite a few examples of more egalitarian societies growing much faster than comparable but more unequal societies. Despite being one of the most equal societies in the world, more equal than even the former Soviet bloc countries in the days of socialism, Finland has grown much faster than the US, one of the most unequal societies in the rich world"
+    },
+    {
+      "typ": "sport",
+      "titel": "Dagens sportfakta",
+      "ikon": "sportscourt.fill",
+      "text": "Live pigeon shooting was an Olympic event in the 1900 Summer Games in Paris",
+      "färg": "#1E90FF",
+      "detaljtext": "Hundreds of pigeons were reportedly released and then shot. Nearly 400 birds were killed and animal rights activists protested leading to the use of clay pigeons. (Who ever thought releasing live birds to be shot in front of a crowd was a good idea anyway?)"
+    },
+    {
+      "typ": "film & TV",
+      "titel": "Dagens kultur",
+      "ikon": "film.fill",
+      "text": "The oldest known musical instruments date back at least 35,000 years, including flutes made from bone. ",
+      "färg": "#1E90FF",
+      "detaljtext": "The oldest known musical instruments date back at least 35,000 years, including flutes made from bone. "
+    },
+    {
+      "typ": "citat",
+      "titel": "Dagens citat",
+      "ikon": "quote.bubble.fill",
+      "text": "“Be yourself",
+      "färg": "#1E90FF",
+      "detaljtext": " everyone else is already taken.”"
+    }
+  ],
+  "2025-06-08": [
+    {
+      "typ": "namn",
+      "titel": "Dagens namn",
+      "ikon": "person.crop.circle",
+      "text": "Eivor, Majvor",
+      "färg": "#1E90FF",
+      "detaljtext": "Eivor: Fornnordiskt ursprung, betyder \"ödesgudinna\". Majvor: Svenskt namn, sammansättning av \"Maj\" och \"vor\" (kvinna)."
+    },
+    {
+      "typ": "fun facts",
+      "titel": "Dagens fun fact",
+      "ikon": "lightbulb.fill",
+      "text": "Bläckfiskar har tre hjärtan",
+      "färg": "#1E90FF",
+      "detaljtext": "Två pumpar blod till gälarna och det tredje till resten av kroppen."
+    },
+    {
+      "typ": "historia",
+      "titel": "Dagens historiska händelse",
+      "ikon": "clock.arrow.circlepath",
+      "text": "Muammar al-Gaddafi föddes, 1943",
+      "färg": "#1E90FF",
+      "detaljtext": "Gadaffi dog sedn 2010 under den arabiska våren"
+    },
+    {
+      "typ": "vetenskap",
+      "titel": "Dagens vetenskap",
+      "ikon": "atom",
+      "text": "Earth’s rotation is changing speed",
+      "färg": "#1E90FF",
+      "detaljtext": " It's actually slowing. This means that, on average, the length of a day increases by around 1.8 seconds per century. 600 million years ago a day lasted just 21 hours"
+    },
+    {
+      "typ": "ekonomi",
+      "titel": "Dagens ekonomifakta",
+      "ikon": "banknote.fill",
+      "text": "Finland, one of the most equal countries in the world, has grown faster than the US",
+      "färg": "#1E90FF",
+      "detaljtext": "Not only is there a lot of evidence showing that that higher inequality produces more negative economic and social outcomes, there are quite a few examples of more egalitarian societies growing much faster than comparable but more unequal societies. Despite being one of the most equal societies in the world, more equal than even the former Soviet bloc countries in the days of socialism, Finland has grown much faster than the US, one of the most unequal societies in the rich world"
+    },
+    {
+      "typ": "sport",
+      "titel": "Dagens sportfakta",
+      "ikon": "sportscourt.fill",
+      "text": "Live pigeon shooting was an Olympic event in the 1900 Summer Games in Paris",
+      "färg": "#1E90FF",
+      "detaljtext": "Hundreds of pigeons were reportedly released and then shot. Nearly 400 birds were killed and animal rights activists protested leading to the use of clay pigeons. (Who ever thought releasing live birds to be shot in front of a crowd was a good idea anyway?)"
+    },
+    {
+      "typ": "film & TV",
+      "titel": "Dagens kultur",
+      "ikon": "film.fill",
+      "text": "The oldest known musical instruments date back at least 35,000 years, including flutes made from bone. ",
+      "färg": "#1E90FF",
+      "detaljtext": "The oldest known musical instruments date back at least 35,000 years, including flutes made from bone. "
+    },
+    {
+      "typ": "citat",
+      "titel": "Dagens citat",
+      "ikon": "quote.bubble.fill",
+      "text": "“Be yourself",
+      "färg": "#1E90FF",
+      "detaljtext": " everyone else is already taken.”"
+    }
+  ],
+  "2025-06-09": [
+    {
+      "typ": "namn",
+      "titel": "Dagens namn",
+      "ikon": "person.crop.circle",
+      "text": "Börje, Birger",
+      "färg": "#1E90FF",
+      "detaljtext": "Börje: Svensk form av Birger. Birger: Fornnordiskt ursprung, betyder \"hjälpare\"."
+    },
+    {
+      "typ": "fun facts",
+      "titel": "Dagens fun fact",
+      "ikon": "lightbulb.fill",
+      "text": "Bananer är bär",
+      "färg": "#1E90FF",
+      "detaljtext": "Botaniskt sett räknas de som bär eftersom de uppstår från en enda blomma med en enda fruktknuta."
+    },
+    {
+      "typ": "historia",
+      "titel": "Dagens historiska händelse",
+      "ikon": "clock.arrow.circlepath",
+      "text": "Muammar al-Gaddafi föddes, 1944",
+      "färg": "#1E90FF",
+      "detaljtext": "Gadaffi dog sedn 2010 under den arabiska våren"
+    },
+    {
+      "typ": "vetenskap",
+      "titel": "Dagens vetenskap",
+      "ikon": "atom",
+      "text": "Earth’s rotation is changing speed",
+      "färg": "#1E90FF",
+      "detaljtext": " It's actually slowing. This means that, on average, the length of a day increases by around 1.8 seconds per century. 600 million years ago a day lasted just 21 hours"
+    },
+    {
+      "typ": "ekonomi",
+      "titel": "Dagens ekonomifakta",
+      "ikon": "banknote.fill",
+      "text": "Finland, one of the most equal countries in the world, has grown faster than the US",
+      "färg": "#1E90FF",
+      "detaljtext": "Not only is there a lot of evidence showing that that higher inequality produces more negative economic and social outcomes, there are quite a few examples of more egalitarian societies growing much faster than comparable but more unequal societies. Despite being one of the most equal societies in the world, more equal than even the former Soviet bloc countries in the days of socialism, Finland has grown much faster than the US, one of the most unequal societies in the rich world"
+    },
+    {
+      "typ": "sport",
+      "titel": "Dagens sportfakta",
+      "ikon": "sportscourt.fill",
+      "text": "Live pigeon shooting was an Olympic event in the 1900 Summer Games in Paris",
+      "färg": "#1E90FF",
+      "detaljtext": "Hundreds of pigeons were reportedly released and then shot. Nearly 400 birds were killed and animal rights activists protested leading to the use of clay pigeons. (Who ever thought releasing live birds to be shot in front of a crowd was a good idea anyway?)"
+    },
+    {
+      "typ": "film & TV",
+      "titel": "Dagens kultur",
+      "ikon": "film.fill",
+      "text": "The oldest known musical instruments date back at least 35,000 years, including flutes made from bone. ",
+      "färg": "#1E90FF",
+      "detaljtext": "The oldest known musical instruments date back at least 35,000 years, including flutes made from bone. "
+    },
+    {
+      "typ": "citat",
+      "titel": "Dagens citat",
+      "ikon": "quote.bubble.fill",
+      "text": "“Be yourself",
+      "färg": "#1E90FF",
+      "detaljtext": " everyone else is already taken.”"
+    }
+  ],
+  "2025-06-10": [
+    {
+      "typ": "namn",
+      "titel": "Dagens namn",
+      "ikon": "person.crop.circle",
+      "text": "Svante, Boris",
+      "färg": "#1E90FF",
+      "detaljtext": "Svante: Kortform av Svantepolk, slaviskt ursprung. Boris: Slaviskt ursprung, betyder \"kämpe\"."
+    },
+    {
+      "typ": "fun facts",
+      "titel": "Dagens fun fact",
+      "ikon": "lightbulb.fill",
+      "text": "Hajen är äldre än träden",
+      "färg": "#1E90FF",
+      "detaljtext": "Hajar har funnits i över 400 miljoner år, medan träd uppstod för cirka 350 miljoner år sedan."
+    },
+    {
+      "typ": "historia",
+      "titel": "Dagens historiska händelse",
+      "ikon": "clock.arrow.circlepath",
+      "text": "Muammar al-Gaddafi föddes, 1945",
+      "färg": "#1E90FF",
+      "detaljtext": "Gadaffi dog sedn 2010 under den arabiska våren"
+    },
+    {
+      "typ": "vetenskap",
+      "titel": "Dagens vetenskap",
+      "ikon": "atom",
+      "text": "Earth’s rotation is changing speed",
+      "färg": "#1E90FF",
+      "detaljtext": " It's actually slowing. This means that, on average, the length of a day increases by around 1.8 seconds per century. 600 million years ago a day lasted just 21 hours"
+    },
+    {
+      "typ": "ekonomi",
+      "titel": "Dagens ekonomifakta",
+      "ikon": "banknote.fill",
+      "text": "Finland, one of the most equal countries in the world, has grown faster than the US",
+      "färg": "#1E90FF",
+      "detaljtext": "Not only is there a lot of evidence showing that that higher inequality produces more negative economic and social outcomes, there are quite a few examples of more egalitarian societies growing much faster than comparable but more unequal societies. Despite being one of the most equal societies in the world, more equal than even the former Soviet bloc countries in the days of socialism, Finland has grown much faster than the US, one of the most unequal societies in the rich world"
+    },
+    {
+      "typ": "sport",
+      "titel": "Dagens sportfakta",
+      "ikon": "sportscourt.fill",
+      "text": "Live pigeon shooting was an Olympic event in the 1900 Summer Games in Paris",
+      "färg": "#1E90FF",
+      "detaljtext": "Hundreds of pigeons were reportedly released and then shot. Nearly 400 birds were killed and animal rights activists protested leading to the use of clay pigeons. (Who ever thought releasing live birds to be shot in front of a crowd was a good idea anyway?)"
+    },
+    {
+      "typ": "film & TV",
+      "titel": "Dagens kultur",
+      "ikon": "film.fill",
+      "text": "The oldest known musical instruments date back at least 35,000 years, including flutes made from bone. ",
+      "färg": "#1E90FF",
+      "detaljtext": "The oldest known musical instruments date back at least 35,000 years, including flutes made from bone. "
+    },
+    {
+      "typ": "citat",
+      "titel": "Dagens citat",
+      "ikon": "quote.bubble.fill",
+      "text": "“Be yourself",
+      "färg": "#1E90FF",
+      "detaljtext": " everyone else is already taken.”"
+    }
+  ],
+  "2025-06-11": [
+    {
+      "typ": "namn",
+      "titel": "Dagens namn",
+      "ikon": "person.crop.circle",
+      "text": "Bertil, Berthold",
+      "färg": "#1E90FF",
+      "detaljtext": "Bertil: Kortform av Berthold. Berthold: Tyskt ursprung, betyder \"strålande härskare\"."
+    },
+    {
+      "typ": "fun facts",
+      "titel": "Dagens fun fact",
+      "ikon": "lightbulb.fill",
+      "text": "Guld är ätbart",
+      "färg": "#1E90FF",
+      "detaljtext": "Det är kemiskt inert och passerar genom kroppen utan att tas upp."
+    },
+    {
+      "typ": "historia",
+      "titel": "Dagens historiska händelse",
+      "ikon": "clock.arrow.circlepath",
+      "text": "Muammar al-Gaddafi föddes, 1946",
+      "färg": "#1E90FF",
+      "detaljtext": "Gadaffi dog sedn 2010 under den arabiska våren"
+    },
+    {
+      "typ": "vetenskap",
+      "titel": "Dagens vetenskap",
+      "ikon": "atom",
+      "text": "Earth’s rotation is changing speed",
+      "färg": "#1E90FF",
+      "detaljtext": " It's actually slowing. This means that, on average, the length of a day increases by around 1.8 seconds per century. 600 million years ago a day lasted just 21 hours"
+    },
+    {
+      "typ": "ekonomi",
+      "titel": "Dagens ekonomifakta",
+      "ikon": "banknote.fill",
+      "text": "Finland, one of the most equal countries in the world, has grown faster than the US",
+      "färg": "#1E90FF",
+      "detaljtext": "Not only is there a lot of evidence showing that that higher inequality produces more negative economic and social outcomes, there are quite a few examples of more egalitarian societies growing much faster than comparable but more unequal societies. Despite being one of the most equal societies in the world, more equal than even the former Soviet bloc countries in the days of socialism, Finland has grown much faster than the US, one of the most unequal societies in the rich world"
+    },
+    {
+      "typ": "sport",
+      "titel": "Dagens sportfakta",
+      "ikon": "sportscourt.fill",
+      "text": "Live pigeon shooting was an Olympic event in the 1900 Summer Games in Paris",
+      "färg": "#1E90FF",
+      "detaljtext": "Hundreds of pigeons were reportedly released and then shot. Nearly 400 birds were killed and animal rights activists protested leading to the use of clay pigeons. (Who ever thought releasing live birds to be shot in front of a crowd was a good idea anyway?)"
+    },
+    {
+      "typ": "film & TV",
+      "titel": "Dagens kultur",
+      "ikon": "film.fill",
+      "text": "The oldest known musical instruments date back at least 35,000 years, including flutes made from bone. ",
+      "färg": "#1E90FF",
+      "detaljtext": "The oldest known musical instruments date back at least 35,000 years, including flutes made from bone. "
+    },
+    {
+      "typ": "citat",
+      "titel": "Dagens citat",
+      "ikon": "quote.bubble.fill",
+      "text": "“Be yourself",
+      "färg": "#1E90FF",
+      "detaljtext": " everyone else is already taken.”"
+    }
+  ],
+  "2025-06-12": [
+    {
+      "typ": "namn",
+      "titel": "Dagens namn",
+      "ikon": "person.crop.circle",
+      "text": "Eskil",
+      "färg": "#1E90FF",
+      "detaljtext": "Eskil: Fornnordiskt ursprung, betyder \"gudens hjälm\"."
+    },
+    {
+      "typ": "fun facts",
+      "titel": "Dagens fun fact",
+      "ikon": "lightbulb.fill",
+      "text": "Jorden har ett 'minimåne'",
+      "färg": "#1E90FF",
+      "detaljtext": "En liten asteroid fångas tillfälligt av jordens gravitation och kretsar som en extra måne."
+    },
+    {
+      "typ": "historia",
+      "titel": "Dagens historiska händelse",
+      "ikon": "clock.arrow.circlepath",
+      "text": "Muammar al-Gaddafi föddes, 1947",
+      "färg": "#1E90FF",
+      "detaljtext": "Gadaffi dog sedn 2010 under den arabiska våren"
+    },
+    {
+      "typ": "vetenskap",
+      "titel": "Dagens vetenskap",
+      "ikon": "atom",
+      "text": "Earth’s rotation is changing speed",
+      "färg": "#1E90FF",
+      "detaljtext": " It's actually slowing. This means that, on average, the length of a day increases by around 1.8 seconds per century. 600 million years ago a day lasted just 21 hours"
+    },
+    {
+      "typ": "ekonomi",
+      "titel": "Dagens ekonomifakta",
+      "ikon": "banknote.fill",
+      "text": "Finland, one of the most equal countries in the world, has grown faster than the US",
+      "färg": "#1E90FF",
+      "detaljtext": "Not only is there a lot of evidence showing that that higher inequality produces more negative economic and social outcomes, there are quite a few examples of more egalitarian societies growing much faster than comparable but more unequal societies. Despite being one of the most equal societies in the world, more equal than even the former Soviet bloc countries in the days of socialism, Finland has grown much faster than the US, one of the most unequal societies in the rich world"
+    },
+    {
+      "typ": "sport",
+      "titel": "Dagens sportfakta",
+      "ikon": "sportscourt.fill",
+      "text": "Live pigeon shooting was an Olympic event in the 1900 Summer Games in Paris",
+      "färg": "#1E90FF",
+      "detaljtext": "Hundreds of pigeons were reportedly released and then shot. Nearly 400 birds were killed and animal rights activists protested leading to the use of clay pigeons. (Who ever thought releasing live birds to be shot in front of a crowd was a good idea anyway?)"
+    },
+    {
+      "typ": "film & TV",
+      "titel": "Dagens kultur",
+      "ikon": "film.fill",
+      "text": "The oldest known musical instruments date back at least 35,000 years, including flutes made from bone. ",
+      "färg": "#1E90FF",
+      "detaljtext": "The oldest known musical instruments date back at least 35,000 years, including flutes made from bone. "
+    },
+    {
+      "typ": "citat",
+      "titel": "Dagens citat",
+      "ikon": "quote.bubble.fill",
+      "text": "“Be yourself",
+      "färg": "#1E90FF",
+      "detaljtext": " everyone else is already taken.”"
+    }
+  ],
+  "2025-06-13": [
+    {
+      "typ": "namn",
+      "titel": "Dagens namn",
+      "ikon": "person.crop.circle",
+      "text": "Aina, Aino",
+      "färg": "#1E90FF",
+      "detaljtext": "Aina: Finskt ursprung, betyder \"den enda\". Aino: Finskt ursprung, betyder \"den enda\"."
+    },
+    {
+      "typ": "fun facts",
+      "titel": "Dagens fun fact",
+      "ikon": "lightbulb.fill",
+      "text": "Katter spinner även när de är stressade",
+      "färg": "#1E90FF",
+      "detaljtext": "Spinnandet tros vara ett sätt att lugna sig själva i pressade situationer."
+    },
+    {
+      "typ": "historia",
+      "titel": "Dagens historiska händelse",
+      "ikon": "clock.arrow.circlepath",
+      "text": "Muammar al-Gaddafi föddes, 1948",
+      "färg": "#1E90FF",
+      "detaljtext": "Gadaffi dog sedn 2010 under den arabiska våren"
+    },
+    {
+      "typ": "vetenskap",
+      "titel": "Dagens vetenskap",
+      "ikon": "atom",
+      "text": "Earth’s rotation is changing speed",
+      "färg": "#1E90FF",
+      "detaljtext": " It's actually slowing. This means that, on average, the length of a day increases by around 1.8 seconds per century. 600 million years ago a day lasted just 21 hours"
+    },
+    {
+      "typ": "ekonomi",
+      "titel": "Dagens ekonomifakta",
+      "ikon": "banknote.fill",
+      "text": "Finland, one of the most equal countries in the world, has grown faster than the US",
+      "färg": "#1E90FF",
+      "detaljtext": "Not only is there a lot of evidence showing that that higher inequality produces more negative economic and social outcomes, there are quite a few examples of more egalitarian societies growing much faster than comparable but more unequal societies. Despite being one of the most equal societies in the world, more equal than even the former Soviet bloc countries in the days of socialism, Finland has grown much faster than the US, one of the most unequal societies in the rich world"
+    },
+    {
+      "typ": "sport",
+      "titel": "Dagens sportfakta",
+      "ikon": "sportscourt.fill",
+      "text": "Live pigeon shooting was an Olympic event in the 1900 Summer Games in Paris",
+      "färg": "#1E90FF",
+      "detaljtext": "Hundreds of pigeons were reportedly released and then shot. Nearly 400 birds were killed and animal rights activists protested leading to the use of clay pigeons. (Who ever thought releasing live birds to be shot in front of a crowd was a good idea anyway?)"
+    },
+    {
+      "typ": "film & TV",
+      "titel": "Dagens kultur",
+      "ikon": "film.fill",
+      "text": "The oldest known musical instruments date back at least 35,000 years, including flutes made from bone. ",
+      "färg": "#1E90FF",
+      "detaljtext": "The oldest known musical instruments date back at least 35,000 years, including flutes made from bone. "
+    },
+    {
+      "typ": "citat",
+      "titel": "Dagens citat",
+      "ikon": "quote.bubble.fill",
+      "text": "“Be yourself",
+      "färg": "#1E90FF",
+      "detaljtext": " everyone else is already taken.”"
+    }
+  ],
+  "2025-06-14": [
+    {
+      "typ": "namn",
+      "titel": "Dagens namn",
+      "ikon": "person.crop.circle",
+      "text": "Håkan, Hakon",
+      "färg": "#1E90FF",
+      "detaljtext": "Håkan: Fornnordiskt ursprung, betyder \"den höge sonen\". Hakon: Norsk form av Håkan."
+    },
+    {
+      "typ": "fun facts",
+      "titel": "Dagens fun fact",
+      "ikon": "lightbulb.fill",
+      "text": "Det finns fler träd på jorden än stjärnor i galaxen",
+      "färg": "#1E90FF",
+      "detaljtext": "Jorden har över 3 biljoner träd, Vintergatan 'bara' 100–400 miljarder stjärnor."
+    },
+    {
+      "typ": "historia",
+      "titel": "Dagens historiska händelse",
+      "ikon": "clock.arrow.circlepath",
+      "text": "Muammar al-Gaddafi föddes, 1949",
+      "färg": "#1E90FF",
+      "detaljtext": "Gadaffi dog sedn 2010 under den arabiska våren"
+    },
+    {
+      "typ": "vetenskap",
+      "titel": "Dagens vetenskap",
+      "ikon": "atom",
+      "text": "Earth’s rotation is changing speed",
+      "färg": "#1E90FF",
+      "detaljtext": " It's actually slowing. This means that, on average, the length of a day increases by around 1.8 seconds per century. 600 million years ago a day lasted just 21 hours"
+    },
+    {
+      "typ": "ekonomi",
+      "titel": "Dagens ekonomifakta",
+      "ikon": "banknote.fill",
+      "text": "Finland, one of the most equal countries in the world, has grown faster than the US",
+      "färg": "#1E90FF",
+      "detaljtext": "Not only is there a lot of evidence showing that that higher inequality produces more negative economic and social outcomes, there are quite a few examples of more egalitarian societies growing much faster than comparable but more unequal societies. Despite being one of the most equal societies in the world, more equal than even the former Soviet bloc countries in the days of socialism, Finland has grown much faster than the US, one of the most unequal societies in the rich world"
+    },
+    {
+      "typ": "sport",
+      "titel": "Dagens sportfakta",
+      "ikon": "sportscourt.fill",
+      "text": "Live pigeon shooting was an Olympic event in the 1900 Summer Games in Paris",
+      "färg": "#1E90FF",
+      "detaljtext": "Hundreds of pigeons were reportedly released and then shot. Nearly 400 birds were killed and animal rights activists protested leading to the use of clay pigeons. (Who ever thought releasing live birds to be shot in front of a crowd was a good idea anyway?)"
+    },
+    {
+      "typ": "film & TV",
+      "titel": "Dagens kultur",
+      "ikon": "film.fill",
+      "text": "The oldest known musical instruments date back at least 35,000 years, including flutes made from bone. ",
+      "färg": "#1E90FF",
+      "detaljtext": "The oldest known musical instruments date back at least 35,000 years, including flutes made from bone. "
+    },
+    {
+      "typ": "citat",
+      "titel": "Dagens citat",
+      "ikon": "quote.bubble.fill",
+      "text": "“Be yourself",
+      "färg": "#1E90FF",
+      "detaljtext": " everyone else is already taken.”"
+    }
+  ],
+  "2025-06-15": [
+    {
+      "typ": "namn",
+      "titel": "Dagens namn",
+      "ikon": "person.crop.circle",
+      "text": "Margit, Margot",
+      "färg": "#1E90FF",
+      "detaljtext": "Margit: Svensk form av Margareta, betyder \"pärla\". Margot: Fransk form av Margareta."
+    },
+    {
+      "typ": "fun facts",
+      "titel": "Dagens fun fact",
+      "ikon": "lightbulb.fill",
+      "text": "Det regnar diamanter på Saturnus",
+      "färg": "#1E90FF",
+      "detaljtext": "Extrema tryck omvandlar kol till diamanter i planetens atmosfär."
+    },
+    {
+      "typ": "historia",
+      "titel": "Dagens historiska händelse",
+      "ikon": "clock.arrow.circlepath",
+      "text": "Muammar al-Gaddafi föddes, 1950",
+      "färg": "#1E90FF",
+      "detaljtext": "Gadaffi dog sedn 2010 under den arabiska våren"
+    },
+    {
+      "typ": "vetenskap",
+      "titel": "Dagens vetenskap",
+      "ikon": "atom",
+      "text": "Earth’s rotation is changing speed",
+      "färg": "#1E90FF",
+      "detaljtext": " It's actually slowing. This means that, on average, the length of a day increases by around 1.8 seconds per century. 600 million years ago a day lasted just 21 hours"
+    },
+    {
+      "typ": "ekonomi",
+      "titel": "Dagens ekonomifakta",
+      "ikon": "banknote.fill",
+      "text": "Finland, one of the most equal countries in the world, has grown faster than the US",
+      "färg": "#1E90FF",
+      "detaljtext": "Not only is there a lot of evidence showing that that higher inequality produces more negative economic and social outcomes, there are quite a few examples of more egalitarian societies growing much faster than comparable but more unequal societies. Despite being one of the most equal societies in the world, more equal than even the former Soviet bloc countries in the days of socialism, Finland has grown much faster than the US, one of the most unequal societies in the rich world"
+    },
+    {
+      "typ": "sport",
+      "titel": "Dagens sportfakta",
+      "ikon": "sportscourt.fill",
+      "text": "Live pigeon shooting was an Olympic event in the 1900 Summer Games in Paris",
+      "färg": "#1E90FF",
+      "detaljtext": "Hundreds of pigeons were reportedly released and then shot. Nearly 400 birds were killed and animal rights activists protested leading to the use of clay pigeons. (Who ever thought releasing live birds to be shot in front of a crowd was a good idea anyway?)"
+    },
+    {
+      "typ": "film & TV",
+      "titel": "Dagens kultur",
+      "ikon": "film.fill",
+      "text": "The oldest known musical instruments date back at least 35,000 years, including flutes made from bone. ",
+      "färg": "#1E90FF",
+      "detaljtext": "The oldest known musical instruments date back at least 35,000 years, including flutes made from bone. "
+    },
+    {
+      "typ": "citat",
+      "titel": "Dagens citat",
+      "ikon": "quote.bubble.fill",
+      "text": "“Be yourself",
+      "färg": "#1E90FF",
+      "detaljtext": " everyone else is already taken.”"
+    }
+  ],
+  "2025-06-16": [
+    {
+      "typ": "namn",
+      "titel": "Dagens namn",
+      "ikon": "person.crop.circle",
+      "text": "Axel, Axelina",
+      "färg": "#1E90FF",
+      "detaljtext": "Axel: Hebreiskt ursprung, betyder \"faderlig frid\". Axelina: Feminint av Axel."
+    },
+    {
+      "typ": "fun facts",
+      "titel": "Dagens fun fact",
+      "ikon": "lightbulb.fill",
+      "text": "Varmt vatten fryser snabbare än kallt",
+      "färg": "#1E90FF",
+      "detaljtext": "Detta fenomen kallas Mpemba-effekten och är inte helt förstått."
+    },
+    {
+      "typ": "historia",
+      "titel": "Dagens historiska händelse",
+      "ikon": "clock.arrow.circlepath",
+      "text": "Muammar al-Gaddafi föddes, 1951",
+      "färg": "#1E90FF",
+      "detaljtext": "Gadaffi dog sedn 2010 under den arabiska våren"
+    },
+    {
+      "typ": "vetenskap",
+      "titel": "Dagens vetenskap",
+      "ikon": "atom",
+      "text": "Earth’s rotation is changing speed",
+      "färg": "#1E90FF",
+      "detaljtext": " It's actually slowing. This means that, on average, the length of a day increases by around 1.8 seconds per century. 600 million years ago a day lasted just 21 hours"
+    },
+    {
+      "typ": "ekonomi",
+      "titel": "Dagens ekonomifakta",
+      "ikon": "banknote.fill",
+      "text": "Finland, one of the most equal countries in the world, has grown faster than the US",
+      "färg": "#1E90FF",
+      "detaljtext": "Not only is there a lot of evidence showing that that higher inequality produces more negative economic and social outcomes, there are quite a few examples of more egalitarian societies growing much faster than comparable but more unequal societies. Despite being one of the most equal societies in the world, more equal than even the former Soviet bloc countries in the days of socialism, Finland has grown much faster than the US, one of the most unequal societies in the rich world"
+    },
+    {
+      "typ": "sport",
+      "titel": "Dagens sportfakta",
+      "ikon": "sportscourt.fill",
+      "text": "Live pigeon shooting was an Olympic event in the 1900 Summer Games in Paris",
+      "färg": "#1E90FF",
+      "detaljtext": "Hundreds of pigeons were reportedly released and then shot. Nearly 400 birds were killed and animal rights activists protested leading to the use of clay pigeons. (Who ever thought releasing live birds to be shot in front of a crowd was a good idea anyway?)"
+    },
+    {
+      "typ": "film & TV",
+      "titel": "Dagens kultur",
+      "ikon": "film.fill",
+      "text": "The oldest known musical instruments date back at least 35,000 years, including flutes made from bone. ",
+      "färg": "#1E90FF",
+      "detaljtext": "The oldest known musical instruments date back at least 35,000 years, including flutes made from bone. "
+    },
+    {
+      "typ": "citat",
+      "titel": "Dagens citat",
+      "ikon": "quote.bubble.fill",
+      "text": "“Be yourself",
+      "färg": "#1E90FF",
+      "detaljtext": " everyone else is already taken.”"
+    }
+  ],
+  "2025-06-17": [
+    {
+      "typ": "namn",
+      "titel": "Dagens namn",
+      "ikon": "person.crop.circle",
+      "text": "Torborg, Torvald",
+      "färg": "#1E90FF",
+      "detaljtext": "Torborg: Fornnordiskt ursprung, betyder \"Tors beskydd\". Torvald: Fornnordiskt ursprung, betyder \"Tors härskare\"."
+    },
+    {
+      "typ": "fun facts",
+      "titel": "Dagens fun fact",
+      "ikon": "lightbulb.fill",
+      "text": "Myror saknar lungor",
+      "färg": "#1E90FF",
+      "detaljtext": "Istället tar de in syre genom små öppningar i kroppen som kallas spirakler."
+    },
+    {
+      "typ": "historia",
+      "titel": "Dagens historiska händelse",
+      "ikon": "clock.arrow.circlepath",
+      "text": "Muammar al-Gaddafi föddes, 1952",
+      "färg": "#1E90FF",
+      "detaljtext": "Gadaffi dog sedn 2010 under den arabiska våren"
+    },
+    {
+      "typ": "vetenskap",
+      "titel": "Dagens vetenskap",
+      "ikon": "atom",
+      "text": "Earth’s rotation is changing speed",
+      "färg": "#1E90FF",
+      "detaljtext": " It's actually slowing. This means that, on average, the length of a day increases by around 1.8 seconds per century. 600 million years ago a day lasted just 21 hours"
+    },
+    {
+      "typ": "ekonomi",
+      "titel": "Dagens ekonomifakta",
+      "ikon": "banknote.fill",
+      "text": "Finland, one of the most equal countries in the world, has grown faster than the US",
+      "färg": "#1E90FF",
+      "detaljtext": "Not only is there a lot of evidence showing that that higher inequality produces more negative economic and social outcomes, there are quite a few examples of more egalitarian societies growing much faster than comparable but more unequal societies. Despite being one of the most equal societies in the world, more equal than even the former Soviet bloc countries in the days of socialism, Finland has grown much faster than the US, one of the most unequal societies in the rich world"
+    },
+    {
+      "typ": "sport",
+      "titel": "Dagens sportfakta",
+      "ikon": "sportscourt.fill",
+      "text": "Live pigeon shooting was an Olympic event in the 1900 Summer Games in Paris",
+      "färg": "#1E90FF",
+      "detaljtext": "Hundreds of pigeons were reportedly released and then shot. Nearly 400 birds were killed and animal rights activists protested leading to the use of clay pigeons. (Who ever thought releasing live birds to be shot in front of a crowd was a good idea anyway?)"
+    },
+    {
+      "typ": "film & TV",
+      "titel": "Dagens kultur",
+      "ikon": "film.fill",
+      "text": "The oldest known musical instruments date back at least 35,000 years, including flutes made from bone. ",
+      "färg": "#1E90FF",
+      "detaljtext": "The oldest known musical instruments date back at least 35,000 years, including flutes made from bone. "
+    },
+    {
+      "typ": "citat",
+      "titel": "Dagens citat",
+      "ikon": "quote.bubble.fill",
+      "text": "“Be yourself",
+      "färg": "#1E90FF",
+      "detaljtext": " everyone else is already taken.”"
+    }
+  ],
+  "2025-06-18": [
+    {
+      "typ": "namn",
+      "titel": "Dagens namn",
+      "ikon": "person.crop.circle",
+      "text": "Björn, Bjarne",
+      "färg": "#1E90FF",
+      "detaljtext": "Björn: Fornnordiskt ursprung, betyder \"björn\". Bjarne: Norsk form av Björn."
+    },
+    {
+      "typ": "fun facts",
+      "titel": "Dagens fun fact",
+      "ikon": "lightbulb.fill",
+      "text": "Bläckfiskar har tre hjärtan",
+      "färg": "#1E90FF",
+      "detaljtext": "Två pumpar blod till gälarna och det tredje till resten av kroppen."
+    },
+    {
+      "typ": "historia",
+      "titel": "Dagens historiska händelse",
+      "ikon": "clock.arrow.circlepath",
+      "text": "Muammar al-Gaddafi föddes, 1953",
+      "färg": "#1E90FF",
+      "detaljtext": "Gadaffi dog sedn 2010 under den arabiska våren"
+    },
+    {
+      "typ": "vetenskap",
+      "titel": "Dagens vetenskap",
+      "ikon": "atom",
+      "text": "Earth’s rotation is changing speed",
+      "färg": "#1E90FF",
+      "detaljtext": " It's actually slowing. This means that, on average, the length of a day increases by around 1.8 seconds per century. 600 million years ago a day lasted just 21 hours"
+    },
+    {
+      "typ": "ekonomi",
+      "titel": "Dagens ekonomifakta",
+      "ikon": "banknote.fill",
+      "text": "Finland, one of the most equal countries in the world, has grown faster than the US",
+      "färg": "#1E90FF",
+      "detaljtext": "Not only is there a lot of evidence showing that that higher inequality produces more negative economic and social outcomes, there are quite a few examples of more egalitarian societies growing much faster than comparable but more unequal societies. Despite being one of the most equal societies in the world, more equal than even the former Soviet bloc countries in the days of socialism, Finland has grown much faster than the US, one of the most unequal societies in the rich world"
+    },
+    {
+      "typ": "sport",
+      "titel": "Dagens sportfakta",
+      "ikon": "sportscourt.fill",
+      "text": "Live pigeon shooting was an Olympic event in the 1900 Summer Games in Paris",
+      "färg": "#1E90FF",
+      "detaljtext": "Hundreds of pigeons were reportedly released and then shot. Nearly 400 birds were killed and animal rights activists protested leading to the use of clay pigeons. (Who ever thought releasing live birds to be shot in front of a crowd was a good idea anyway?)"
+    },
+    {
+      "typ": "film & TV",
+      "titel": "Dagens kultur",
+      "ikon": "film.fill",
+      "text": "The oldest known musical instruments date back at least 35,000 years, including flutes made from bone. ",
+      "färg": "#1E90FF",
+      "detaljtext": "The oldest known musical instruments date back at least 35,000 years, including flutes made from bone. "
+    },
+    {
+      "typ": "citat",
+      "titel": "Dagens citat",
+      "ikon": "quote.bubble.fill",
+      "text": "“Be yourself",
+      "färg": "#1E90FF",
+      "detaljtext": " everyone else is already taken.”"
+    }
+  ],
+  "2025-06-19": [
+    {
+      "typ": "namn",
+      "titel": "Dagens namn",
+      "ikon": "person.crop.circle",
+      "text": "Germund, Görel",
+      "färg": "#1E90FF",
+      "detaljtext": "Germund: Fornnordiskt ursprung, betyder \"spjutets beskyddare\". Görel: Svenskt namn, oklart ursprung."
+    },
+    {
+      "typ": "fun facts",
+      "titel": "Dagens fun fact",
+      "ikon": "lightbulb.fill",
+      "text": "Bananer är bär",
+      "färg": "#1E90FF",
+      "detaljtext": "Botaniskt sett räknas de som bär eftersom de uppstår från en enda blomma med en enda fruktknuta."
+    },
+    {
+      "typ": "historia",
+      "titel": "Dagens historiska händelse",
+      "ikon": "clock.arrow.circlepath",
+      "text": "Muammar al-Gaddafi föddes, 1954",
+      "färg": "#1E90FF",
+      "detaljtext": "Gadaffi dog sedn 2010 under den arabiska våren"
+    },
+    {
+      "typ": "vetenskap",
+      "titel": "Dagens vetenskap",
+      "ikon": "atom",
+      "text": "Earth’s rotation is changing speed",
+      "färg": "#1E90FF",
+      "detaljtext": " It's actually slowing. This means that, on average, the length of a day increases by around 1.8 seconds per century. 600 million years ago a day lasted just 21 hours"
+    },
+    {
+      "typ": "ekonomi",
+      "titel": "Dagens ekonomifakta",
+      "ikon": "banknote.fill",
+      "text": "Finland, one of the most equal countries in the world, has grown faster than the US",
+      "färg": "#1E90FF",
+      "detaljtext": "Not only is there a lot of evidence showing that that higher inequality produces more negative economic and social outcomes, there are quite a few examples of more egalitarian societies growing much faster than comparable but more unequal societies. Despite being one of the most equal societies in the world, more equal than even the former Soviet bloc countries in the days of socialism, Finland has grown much faster than the US, one of the most unequal societies in the rich world"
+    },
+    {
+      "typ": "sport",
+      "titel": "Dagens sportfakta",
+      "ikon": "sportscourt.fill",
+      "text": "Live pigeon shooting was an Olympic event in the 1900 Summer Games in Paris",
+      "färg": "#1E90FF",
+      "detaljtext": "Hundreds of pigeons were reportedly released and then shot. Nearly 400 birds were killed and animal rights activists protested leading to the use of clay pigeons. (Who ever thought releasing live birds to be shot in front of a crowd was a good idea anyway?)"
+    },
+    {
+      "typ": "film & TV",
+      "titel": "Dagens kultur",
+      "ikon": "film.fill",
+      "text": "The oldest known musical instruments date back at least 35,000 years, including flutes made from bone. ",
+      "färg": "#1E90FF",
+      "detaljtext": "The oldest known musical instruments date back at least 35,000 years, including flutes made from bone. "
+    },
+    {
+      "typ": "citat",
+      "titel": "Dagens citat",
+      "ikon": "quote.bubble.fill",
+      "text": "“Be yourself",
+      "färg": "#1E90FF",
+      "detaljtext": " everyone else is already taken.”"
+    }
+  ],
+  "2025-06-20": [
+    {
+      "typ": "namn",
+      "titel": "Dagens namn",
+      "ikon": "person.crop.circle",
+      "text": "Linda",
+      "färg": "#1E90FF",
+      "detaljtext": "Linda: Tyskt ursprung, betyder \"mjuk\" eller \"vacker\"."
+    },
+    {
+      "typ": "fun facts",
+      "titel": "Dagens fun fact",
+      "ikon": "lightbulb.fill",
+      "text": "Hajen är äldre än träden",
+      "färg": "#1E90FF",
+      "detaljtext": "Hajar har funnits i över 400 miljoner år, medan träd uppstod för cirka 350 miljoner år sedan."
+    },
+    {
+      "typ": "historia",
+      "titel": "Dagens historiska händelse",
+      "ikon": "clock.arrow.circlepath",
+      "text": "Muammar al-Gaddafi föddes, 1955",
+      "färg": "#1E90FF",
+      "detaljtext": "Gadaffi dog sedn 2010 under den arabiska våren"
+    },
+    {
+      "typ": "vetenskap",
+      "titel": "Dagens vetenskap",
+      "ikon": "atom",
+      "text": "Earth’s rotation is changing speed",
+      "färg": "#1E90FF",
+      "detaljtext": " It's actually slowing. This means that, on average, the length of a day increases by around 1.8 seconds per century. 600 million years ago a day lasted just 21 hours"
+    },
+    {
+      "typ": "ekonomi",
+      "titel": "Dagens ekonomifakta",
+      "ikon": "banknote.fill",
+      "text": "Finland, one of the most equal countries in the world, has grown faster than the US",
+      "färg": "#1E90FF",
+      "detaljtext": "Not only is there a lot of evidence showing that that higher inequality produces more negative economic and social outcomes, there are quite a few examples of more egalitarian societies growing much faster than comparable but more unequal societies. Despite being one of the most equal societies in the world, more equal than even the former Soviet bloc countries in the days of socialism, Finland has grown much faster than the US, one of the most unequal societies in the rich world"
+    },
+    {
+      "typ": "sport",
+      "titel": "Dagens sportfakta",
+      "ikon": "sportscourt.fill",
+      "text": "Live pigeon shooting was an Olympic event in the 1900 Summer Games in Paris",
+      "färg": "#1E90FF",
+      "detaljtext": "Hundreds of pigeons were reportedly released and then shot. Nearly 400 birds were killed and animal rights activists protested leading to the use of clay pigeons. (Who ever thought releasing live birds to be shot in front of a crowd was a good idea anyway?)"
+    },
+    {
+      "typ": "film & TV",
+      "titel": "Dagens kultur",
+      "ikon": "film.fill",
+      "text": "The oldest known musical instruments date back at least 35,000 years, including flutes made from bone. ",
+      "färg": "#1E90FF",
+      "detaljtext": "The oldest known musical instruments date back at least 35,000 years, including flutes made from bone. "
+    },
+    {
+      "typ": "citat",
+      "titel": "Dagens citat",
+      "ikon": "quote.bubble.fill",
+      "text": "“Be yourself",
+      "färg": "#1E90FF",
+      "detaljtext": " everyone else is already taken.”"
+    }
+  ],
+  "2025-06-21": [
+    {
+      "typ": "namn",
+      "titel": "Dagens namn",
+      "ikon": "person.crop.circle",
+      "text": "Alf, Alvar",
+      "färg": "#1E90FF",
+      "detaljtext": "Alf: Fornnordiskt ursprung, betyder \"alv\". Alvar: Fornnordiskt ursprung, betyder \"krigsvakt\"."
+    },
+    {
+      "typ": "fun facts",
+      "titel": "Dagens fun fact",
+      "ikon": "lightbulb.fill",
+      "text": "Guld är ätbart",
+      "färg": "#1E90FF",
+      "detaljtext": "Det är kemiskt inert och passerar genom kroppen utan att tas upp."
+    },
+    {
+      "typ": "historia",
+      "titel": "Dagens historiska händelse",
+      "ikon": "clock.arrow.circlepath",
+      "text": "Muammar al-Gaddafi föddes, 1956",
+      "färg": "#1E90FF",
+      "detaljtext": "Gadaffi dog sedn 2010 under den arabiska våren"
+    },
+    {
+      "typ": "vetenskap",
+      "titel": "Dagens vetenskap",
+      "ikon": "atom",
+      "text": "Earth’s rotation is changing speed",
+      "färg": "#1E90FF",
+      "detaljtext": " It's actually slowing. This means that, on average, the length of a day increases by around 1.8 seconds per century. 600 million years ago a day lasted just 21 hours"
+    },
+    {
+      "typ": "ekonomi",
+      "titel": "Dagens ekonomifakta",
+      "ikon": "banknote.fill",
+      "text": "Finland, one of the most equal countries in the world, has grown faster than the US",
+      "färg": "#1E90FF",
+      "detaljtext": "Not only is there a lot of evidence showing that that higher inequality produces more negative economic and social outcomes, there are quite a few examples of more egalitarian societies growing much faster than comparable but more unequal societies. Despite being one of the most equal societies in the world, more equal than even the former Soviet bloc countries in the days of socialism, Finland has grown much faster than the US, one of the most unequal societies in the rich world"
+    },
+    {
+      "typ": "sport",
+      "titel": "Dagens sportfakta",
+      "ikon": "sportscourt.fill",
+      "text": "Live pigeon shooting was an Olympic event in the 1900 Summer Games in Paris",
+      "färg": "#1E90FF",
+      "detaljtext": "Hundreds of pigeons were reportedly released and then shot. Nearly 400 birds were killed and animal rights activists protested leading to the use of clay pigeons. (Who ever thought releasing live birds to be shot in front of a crowd was a good idea anyway?)"
+    },
+    {
+      "typ": "film & TV",
+      "titel": "Dagens kultur",
+      "ikon": "film.fill",
+      "text": "The oldest known musical instruments date back at least 35,000 years, including flutes made from bone. ",
+      "färg": "#1E90FF",
+      "detaljtext": "The oldest known musical instruments date back at least 35,000 years, including flutes made from bone. "
+    },
+    {
+      "typ": "citat",
+      "titel": "Dagens citat",
+      "ikon": "quote.bubble.fill",
+      "text": "“Be yourself",
+      "färg": "#1E90FF",
+      "detaljtext": " everyone else is already taken.”"
+    }
+  ],
+  "2025-06-22": [
+    {
+      "typ": "namn",
+      "titel": "Dagens namn",
+      "ikon": "person.crop.circle",
+      "text": "Paulina, Paula",
+      "färg": "#1E90FF",
+      "detaljtext": "Paulina: Latinskt ursprung, betyder \"liten\". Paula: Feminint av Paulus, betyder \"liten\"."
+    },
+    {
+      "typ": "fun facts",
+      "titel": "Dagens fun fact",
+      "ikon": "lightbulb.fill",
+      "text": "Jorden har ett 'minimåne'",
+      "färg": "#1E90FF",
+      "detaljtext": "En liten asteroid fångas tillfälligt av jordens gravitation och kretsar som en extra måne."
+    },
+    {
+      "typ": "historia",
+      "titel": "Dagens historiska händelse",
+      "ikon": "clock.arrow.circlepath",
+      "text": "Muammar al-Gaddafi föddes, 1957",
+      "färg": "#1E90FF",
+      "detaljtext": "Gadaffi dog sedn 2010 under den arabiska våren"
+    },
+    {
+      "typ": "vetenskap",
+      "titel": "Dagens vetenskap",
+      "ikon": "atom",
+      "text": "Earth’s rotation is changing speed",
+      "färg": "#1E90FF",
+      "detaljtext": " It's actually slowing. This means that, on average, the length of a day increases by around 1.8 seconds per century. 600 million years ago a day lasted just 21 hours"
+    },
+    {
+      "typ": "ekonomi",
+      "titel": "Dagens ekonomifakta",
+      "ikon": "banknote.fill",
+      "text": "Finland, one of the most equal countries in the world, has grown faster than the US",
+      "färg": "#1E90FF",
+      "detaljtext": "Not only is there a lot of evidence showing that that higher inequality produces more negative economic and social outcomes, there are quite a few examples of more egalitarian societies growing much faster than comparable but more unequal societies. Despite being one of the most equal societies in the world, more equal than even the former Soviet bloc countries in the days of socialism, Finland has grown much faster than the US, one of the most unequal societies in the rich world"
+    },
+    {
+      "typ": "sport",
+      "titel": "Dagens sportfakta",
+      "ikon": "sportscourt.fill",
+      "text": "Live pigeon shooting was an Olympic event in the 1900 Summer Games in Paris",
+      "färg": "#1E90FF",
+      "detaljtext": "Hundreds of pigeons were reportedly released and then shot. Nearly 400 birds were killed and animal rights activists protested leading to the use of clay pigeons. (Who ever thought releasing live birds to be shot in front of a crowd was a good idea anyway?)"
+    },
+    {
+      "typ": "film & TV",
+      "titel": "Dagens kultur",
+      "ikon": "film.fill",
+      "text": "The oldest known musical instruments date back at least 35,000 years, including flutes made from bone. ",
+      "färg": "#1E90FF",
+      "detaljtext": "The oldest known musical instruments date back at least 35,000 years, including flutes made from bone. "
+    },
+    {
+      "typ": "citat",
+      "titel": "Dagens citat",
+      "ikon": "quote.bubble.fill",
+      "text": "“Be yourself",
+      "färg": "#1E90FF",
+      "detaljtext": " everyone else is already taken.”"
+    }
+  ],
+  "2025-06-23": [
+    {
+      "typ": "namn",
+      "titel": "Dagens namn",
+      "ikon": "person.crop.circle",
+      "text": "Adolf, Alice",
+      "färg": "#1E90FF",
+      "detaljtext": "Adolf: Tyskt ursprung, betyder \"ädel varg\". Alice: Fransk form av Adelheid, betyder \"ädel\"."
+    },
+    {
+      "typ": "fun facts",
+      "titel": "Dagens fun fact",
+      "ikon": "lightbulb.fill",
+      "text": "Katter spinner även när de är stressade",
+      "färg": "#1E90FF",
+      "detaljtext": "Spinnandet tros vara ett sätt att lugna sig själva i pressade situationer."
+    },
+    {
+      "typ": "historia",
+      "titel": "Dagens historiska händelse",
+      "ikon": "clock.arrow.circlepath",
+      "text": "Muammar al-Gaddafi föddes, 1958",
+      "färg": "#1E90FF",
+      "detaljtext": "Gadaffi dog sedn 2010 under den arabiska våren"
+    },
+    {
+      "typ": "vetenskap",
+      "titel": "Dagens vetenskap",
+      "ikon": "atom",
+      "text": "Earth’s rotation is changing speed",
+      "färg": "#1E90FF",
+      "detaljtext": " It's actually slowing. This means that, on average, the length of a day increases by around 1.8 seconds per century. 600 million years ago a day lasted just 21 hours"
+    },
+    {
+      "typ": "ekonomi",
+      "titel": "Dagens ekonomifakta",
+      "ikon": "banknote.fill",
+      "text": "Finland, one of the most equal countries in the world, has grown faster than the US",
+      "färg": "#1E90FF",
+      "detaljtext": "Not only is there a lot of evidence showing that that higher inequality produces more negative economic and social outcomes, there are quite a few examples of more egalitarian societies growing much faster than comparable but more unequal societies. Despite being one of the most equal societies in the world, more equal than even the former Soviet bloc countries in the days of socialism, Finland has grown much faster than the US, one of the most unequal societies in the rich world"
+    },
+    {
+      "typ": "sport",
+      "titel": "Dagens sportfakta",
+      "ikon": "sportscourt.fill",
+      "text": "Live pigeon shooting was an Olympic event in the 1900 Summer Games in Paris",
+      "färg": "#1E90FF",
+      "detaljtext": "Hundreds of pigeons were reportedly released and then shot. Nearly 400 birds were killed and animal rights activists protested leading to the use of clay pigeons. (Who ever thought releasing live birds to be shot in front of a crowd was a good idea anyway?)"
+    },
+    {
+      "typ": "film & TV",
+      "titel": "Dagens kultur",
+      "ikon": "film.fill",
+      "text": "The oldest known musical instruments date back at least 35,000 years, including flutes made from bone. ",
+      "färg": "#1E90FF",
+      "detaljtext": "The oldest known musical instruments date back at least 35,000 years, including flutes made from bone. "
+    },
+    {
+      "typ": "citat",
+      "titel": "Dagens citat",
+      "ikon": "quote.bubble.fill",
+      "text": "“Be yourself",
+      "färg": "#1E90FF",
+      "detaljtext": " everyone else is already taken.”"
+    }
+  ],
+  "2025-06-24": [
+    {
+      "typ": "namn",
+      "titel": "Dagens namn",
+      "ikon": "person.crop.circle",
+      "text": "Johannes Döparens dag",
+      "färg": "#1E90FF",
+      "detaljtext": "Johannes: Hebreiskt ursprung, betyder \"Gud är nådig\"."
+    },
+    {
+      "typ": "fun facts",
+      "titel": "Dagens fun fact",
+      "ikon": "lightbulb.fill",
+      "text": "Det finns fler träd på jorden än stjärnor i galaxen",
+      "färg": "#1E90FF",
+      "detaljtext": "Jorden har över 3 biljoner träd, Vintergatan 'bara' 100–400 miljarder stjärnor."
+    },
+    {
+      "typ": "historia",
+      "titel": "Dagens historiska händelse",
+      "ikon": "clock.arrow.circlepath",
+      "text": "Muammar al-Gaddafi föddes, 1959",
+      "färg": "#1E90FF",
+      "detaljtext": "Gadaffi dog sedn 2010 under den arabiska våren"
+    },
+    {
+      "typ": "vetenskap",
+      "titel": "Dagens vetenskap",
+      "ikon": "atom",
+      "text": "Earth’s rotation is changing speed",
+      "färg": "#1E90FF",
+      "detaljtext": " It's actually slowing. This means that, on average, the length of a day increases by around 1.8 seconds per century. 600 million years ago a day lasted just 21 hours"
+    },
+    {
+      "typ": "ekonomi",
+      "titel": "Dagens ekonomifakta",
+      "ikon": "banknote.fill",
+      "text": "Finland, one of the most equal countries in the world, has grown faster than the US",
+      "färg": "#1E90FF",
+      "detaljtext": "Not only is there a lot of evidence showing that that higher inequality produces more negative economic and social outcomes, there are quite a few examples of more egalitarian societies growing much faster than comparable but more unequal societies. Despite being one of the most equal societies in the world, more equal than even the former Soviet bloc countries in the days of socialism, Finland has grown much faster than the US, one of the most unequal societies in the rich world"
+    },
+    {
+      "typ": "sport",
+      "titel": "Dagens sportfakta",
+      "ikon": "sportscourt.fill",
+      "text": "Live pigeon shooting was an Olympic event in the 1900 Summer Games in Paris",
+      "färg": "#1E90FF",
+      "detaljtext": "Hundreds of pigeons were reportedly released and then shot. Nearly 400 birds were killed and animal rights activists protested leading to the use of clay pigeons. (Who ever thought releasing live birds to be shot in front of a crowd was a good idea anyway?)"
+    },
+    {
+      "typ": "film & TV",
+      "titel": "Dagens kultur",
+      "ikon": "film.fill",
+      "text": "The oldest known musical instruments date back at least 35,000 years, including flutes made from bone. ",
+      "färg": "#1E90FF",
+      "detaljtext": "The oldest known musical instruments date back at least 35,000 years, including flutes made from bone. "
+    },
+    {
+      "typ": "citat",
+      "titel": "Dagens citat",
+      "ikon": "quote.bubble.fill",
+      "text": "“Be yourself",
+      "färg": "#1E90FF",
+      "detaljtext": " everyone else is already taken.”"
+    }
+  ],
+  "2025-06-25": [
+    {
+      "typ": "namn",
+      "titel": "Dagens namn",
+      "ikon": "person.crop.circle",
+      "text": "David, Salomon",
+      "färg": "#1E90FF",
+      "detaljtext": "David: Hebreiskt ursprung, betyder \"älskad\". Salomon: Hebreiskt ursprung, betyder \"fredlig\"."
+    },
+    {
+      "typ": "fun facts",
+      "titel": "Dagens fun fact",
+      "ikon": "lightbulb.fill",
+      "text": "Det regnar diamanter på Saturnus",
+      "färg": "#1E90FF",
+      "detaljtext": "Extrema tryck omvandlar kol till diamanter i planetens atmosfär."
+    },
+    {
+      "typ": "historia",
+      "titel": "Dagens historiska händelse",
+      "ikon": "clock.arrow.circlepath",
+      "text": "Muammar al-Gaddafi föddes, 1960",
+      "färg": "#1E90FF",
+      "detaljtext": "Gadaffi dog sedn 2010 under den arabiska våren"
+    },
+    {
+      "typ": "vetenskap",
+      "titel": "Dagens vetenskap",
+      "ikon": "atom",
+      "text": "Earth’s rotation is changing speed",
+      "färg": "#1E90FF",
+      "detaljtext": " It's actually slowing. This means that, on average, the length of a day increases by around 1.8 seconds per century. 600 million years ago a day lasted just 21 hours"
+    },
+    {
+      "typ": "ekonomi",
+      "titel": "Dagens ekonomifakta",
+      "ikon": "banknote.fill",
+      "text": "Finland, one of the most equal countries in the world, has grown faster than the US",
+      "färg": "#1E90FF",
+      "detaljtext": "Not only is there a lot of evidence showing that that higher inequality produces more negative economic and social outcomes, there are quite a few examples of more egalitarian societies growing much faster than comparable but more unequal societies. Despite being one of the most equal societies in the world, more equal than even the former Soviet bloc countries in the days of socialism, Finland has grown much faster than the US, one of the most unequal societies in the rich world"
+    },
+    {
+      "typ": "sport",
+      "titel": "Dagens sportfakta",
+      "ikon": "sportscourt.fill",
+      "text": "Live pigeon shooting was an Olympic event in the 1900 Summer Games in Paris",
+      "färg": "#1E90FF",
+      "detaljtext": "Hundreds of pigeons were reportedly released and then shot. Nearly 400 birds were killed and animal rights activists protested leading to the use of clay pigeons. (Who ever thought releasing live birds to be shot in front of a crowd was a good idea anyway?)"
+    },
+    {
+      "typ": "film & TV",
+      "titel": "Dagens kultur",
+      "ikon": "film.fill",
+      "text": "The oldest known musical instruments date back at least 35,000 years, including flutes made from bone. ",
+      "färg": "#1E90FF",
+      "detaljtext": "The oldest known musical instruments date back at least 35,000 years, including flutes made from bone. "
+    },
+    {
+      "typ": "citat",
+      "titel": "Dagens citat",
+      "ikon": "quote.bubble.fill",
+      "text": "“Be yourself",
+      "färg": "#1E90FF",
+      "detaljtext": " everyone else is already taken.”"
+    }
+  ],
+  "2025-06-26": [
+    {
+      "typ": "namn",
+      "titel": "Dagens namn",
+      "ikon": "person.crop.circle",
+      "text": "Rakel, Lea",
+      "färg": "#1E90FF",
+      "detaljtext": "Rakel: Hebreiskt ursprung, betyder \"fårhona\". Lea: Hebreiskt ursprung, betyder \"trött\" eller \"vildko\"."
+    },
+    {
+      "typ": "fun facts",
+      "titel": "Dagens fun fact",
+      "ikon": "lightbulb.fill",
+      "text": "Varmt vatten fryser snabbare än kallt",
+      "färg": "#1E90FF",
+      "detaljtext": "Detta fenomen kallas Mpemba-effekten och är inte helt förstått."
+    },
+    {
+      "typ": "historia",
+      "titel": "Dagens historiska händelse",
+      "ikon": "clock.arrow.circlepath",
+      "text": "Muammar al-Gaddafi föddes, 1961",
+      "färg": "#1E90FF",
+      "detaljtext": "Gadaffi dog sedn 2010 under den arabiska våren"
+    },
+    {
+      "typ": "vetenskap",
+      "titel": "Dagens vetenskap",
+      "ikon": "atom",
+      "text": "Earth’s rotation is changing speed",
+      "färg": "#1E90FF",
+      "detaljtext": " It's actually slowing. This means that, on average, the length of a day increases by around 1.8 seconds per century. 600 million years ago a day lasted just 21 hours"
+    },
+    {
+      "typ": "ekonomi",
+      "titel": "Dagens ekonomifakta",
+      "ikon": "banknote.fill",
+      "text": "Finland, one of the most equal countries in the world, has grown faster than the US",
+      "färg": "#1E90FF",
+      "detaljtext": "Not only is there a lot of evidence showing that that higher inequality produces more negative economic and social outcomes, there are quite a few examples of more egalitarian societies growing much faster than comparable but more unequal societies. Despite being one of the most equal societies in the world, more equal than even the former Soviet bloc countries in the days of socialism, Finland has grown much faster than the US, one of the most unequal societies in the rich world"
+    },
+    {
+      "typ": "sport",
+      "titel": "Dagens sportfakta",
+      "ikon": "sportscourt.fill",
+      "text": "Live pigeon shooting was an Olympic event in the 1900 Summer Games in Paris",
+      "färg": "#1E90FF",
+      "detaljtext": "Hundreds of pigeons were reportedly released and then shot. Nearly 400 birds were killed and animal rights activists protested leading to the use of clay pigeons. (Who ever thought releasing live birds to be shot in front of a crowd was a good idea anyway?)"
+    },
+    {
+      "typ": "film & TV",
+      "titel": "Dagens kultur",
+      "ikon": "film.fill",
+      "text": "The oldest known musical instruments date back at least 35,000 years, including flutes made from bone. ",
+      "färg": "#1E90FF",
+      "detaljtext": "The oldest known musical instruments date back at least 35,000 years, including flutes made from bone. "
+    },
+    {
+      "typ": "citat",
+      "titel": "Dagens citat",
+      "ikon": "quote.bubble.fill",
+      "text": "“Be yourself",
+      "färg": "#1E90FF",
+      "detaljtext": " everyone else is already taken.”"
+    }
+  ],
+  "2025-06-27": [
+    {
+      "typ": "namn",
+      "titel": "Dagens namn",
+      "ikon": "person.crop.circle",
+      "text": "Selma, Fingal",
+      "färg": "#1E90FF",
+      "detaljtext": "Selma: Tyskt ursprung, betyder \"Guds hjälm\". Fingal: Keltiskt ursprung, betyder \"vit främling\"."
+    },
+    {
+      "typ": "fun facts",
+      "titel": "Dagens fun fact",
+      "ikon": "lightbulb.fill",
+      "text": "Myror saknar lungor",
+      "färg": "#1E90FF",
+      "detaljtext": "Istället tar de in syre genom små öppningar i kroppen som kallas spirakler."
+    },
+    {
+      "typ": "historia",
+      "titel": "Dagens historiska händelse",
+      "ikon": "clock.arrow.circlepath",
+      "text": "Muammar al-Gaddafi föddes, 1962",
+      "färg": "#1E90FF",
+      "detaljtext": "Gadaffi dog sedn 2010 under den arabiska våren"
+    },
+    {
+      "typ": "vetenskap",
+      "titel": "Dagens vetenskap",
+      "ikon": "atom",
+      "text": "Earth’s rotation is changing speed",
+      "färg": "#1E90FF",
+      "detaljtext": " It's actually slowing. This means that, on average, the length of a day increases by around 1.8 seconds per century. 600 million years ago a day lasted just 21 hours"
+    },
+    {
+      "typ": "ekonomi",
+      "titel": "Dagens ekonomifakta",
+      "ikon": "banknote.fill",
+      "text": "Finland, one of the most equal countries in the world, has grown faster than the US",
+      "färg": "#1E90FF",
+      "detaljtext": "Not only is there a lot of evidence showing that that higher inequality produces more negative economic and social outcomes, there are quite a few examples of more egalitarian societies growing much faster than comparable but more unequal societies. Despite being one of the most equal societies in the world, more equal than even the former Soviet bloc countries in the days of socialism, Finland has grown much faster than the US, one of the most unequal societies in the rich world"
+    },
+    {
+      "typ": "sport",
+      "titel": "Dagens sportfakta",
+      "ikon": "sportscourt.fill",
+      "text": "Live pigeon shooting was an Olympic event in the 1900 Summer Games in Paris",
+      "färg": "#1E90FF",
+      "detaljtext": "Hundreds of pigeons were reportedly released and then shot. Nearly 400 birds were killed and animal rights activists protested leading to the use of clay pigeons. (Who ever thought releasing live birds to be shot in front of a crowd was a good idea anyway?)"
+    },
+    {
+      "typ": "film & TV",
+      "titel": "Dagens kultur",
+      "ikon": "film.fill",
+      "text": "The oldest known musical instruments date back at least 35,000 years, including flutes made from bone. ",
+      "färg": "#1E90FF",
+      "detaljtext": "The oldest known musical instruments date back at least 35,000 years, including flutes made from bone. "
+    },
+    {
+      "typ": "citat",
+      "titel": "Dagens citat",
+      "ikon": "quote.bubble.fill",
+      "text": "“Be yourself",
+      "färg": "#1E90FF",
+      "detaljtext": " everyone else is already taken.”"
+    }
+  ],
+  "2025-06-28": [
+    {
+      "typ": "namn",
+      "titel": "Dagens namn",
+      "ikon": "person.crop.circle",
+      "text": "Leo",
+      "färg": "#1E90FF",
+      "detaljtext": "Leo: Latinskt ursprung, betyder \"lejon\"."
+    },
+    {
+      "typ": "fun facts",
+      "titel": "Dagens fun fact",
+      "ikon": "lightbulb.fill",
+      "text": "Bläckfiskar har tre hjärtan",
+      "färg": "#1E90FF",
+      "detaljtext": "Två pumpar blod till gälarna och det tredje till resten av kroppen."
+    },
+    {
+      "typ": "historia",
+      "titel": "Dagens historiska händelse",
+      "ikon": "clock.arrow.circlepath",
+      "text": "Muammar al-Gaddafi föddes, 1963",
+      "färg": "#1E90FF",
+      "detaljtext": "Gadaffi dog sedn 2010 under den arabiska våren"
+    },
+    {
+      "typ": "vetenskap",
+      "titel": "Dagens vetenskap",
+      "ikon": "atom",
+      "text": "Earth’s rotation is changing speed",
+      "färg": "#1E90FF",
+      "detaljtext": " It's actually slowing. This means that, on average, the length of a day increases by around 1.8 seconds per century. 600 million years ago a day lasted just 21 hours"
+    },
+    {
+      "typ": "ekonomi",
+      "titel": "Dagens ekonomifakta",
+      "ikon": "banknote.fill",
+      "text": "Finland, one of the most equal countries in the world, has grown faster than the US",
+      "färg": "#1E90FF",
+      "detaljtext": "Not only is there a lot of evidence showing that that higher inequality produces more negative economic and social outcomes, there are quite a few examples of more egalitarian societies growing much faster than comparable but more unequal societies. Despite being one of the most equal societies in the world, more equal than even the former Soviet bloc countries in the days of socialism, Finland has grown much faster than the US, one of the most unequal societies in the rich world"
+    },
+    {
+      "typ": "sport",
+      "titel": "Dagens sportfakta",
+      "ikon": "sportscourt.fill",
+      "text": "Live pigeon shooting was an Olympic event in the 1900 Summer Games in Paris",
+      "färg": "#1E90FF",
+      "detaljtext": "Hundreds of pigeons were reportedly released and then shot. Nearly 400 birds were killed and animal rights activists protested leading to the use of clay pigeons. (Who ever thought releasing live birds to be shot in front of a crowd was a good idea anyway?)"
+    },
+    {
+      "typ": "film & TV",
+      "titel": "Dagens kultur",
+      "ikon": "film.fill",
+      "text": "The oldest known musical instruments date back at least 35,000 years, including flutes made from bone. ",
+      "färg": "#1E90FF",
+      "detaljtext": "The oldest known musical instruments date back at least 35,000 years, including flutes made from bone. "
+    },
+    {
+      "typ": "citat",
+      "titel": "Dagens citat",
+      "ikon": "quote.bubble.fill",
+      "text": "“Be yourself",
+      "färg": "#1E90FF",
+      "detaljtext": " everyone else is already taken.”"
+    }
+  ],
+  "2025-06-29": [
+    {
+      "typ": "namn",
+      "titel": "Dagens namn",
+      "ikon": "person.crop.circle",
+      "text": "Peter, Petra",
+      "färg": "#1E90FF",
+      "detaljtext": "Peter: Grekiskt ursprung, betyder \"klippa\". Petra: Feminint av Peter."
+    },
+    {
+      "typ": "fun facts",
+      "titel": "Dagens fun fact",
+      "ikon": "lightbulb.fill",
+      "text": "Bananer är bär",
+      "färg": "#1E90FF",
+      "detaljtext": "Botaniskt sett räknas de som bär eftersom de uppstår från en enda blomma med en enda fruktknuta."
+    },
+    {
+      "typ": "historia",
+      "titel": "Dagens historiska händelse",
+      "ikon": "clock.arrow.circlepath",
+      "text": "Muammar al-Gaddafi föddes, 1964",
+      "färg": "#1E90FF",
+      "detaljtext": "Gadaffi dog sedn 2010 under den arabiska våren"
+    },
+    {
+      "typ": "vetenskap",
+      "titel": "Dagens vetenskap",
+      "ikon": "atom",
+      "text": "Earth’s rotation is changing speed",
+      "färg": "#1E90FF",
+      "detaljtext": " It's actually slowing. This means that, on average, the length of a day increases by around 1.8 seconds per century. 600 million years ago a day lasted just 21 hours"
+    },
+    {
+      "typ": "ekonomi",
+      "titel": "Dagens ekonomifakta",
+      "ikon": "banknote.fill",
+      "text": "Finland, one of the most equal countries in the world, has grown faster than the US",
+      "färg": "#1E90FF",
+      "detaljtext": "Not only is there a lot of evidence showing that that higher inequality produces more negative economic and social outcomes, there are quite a few examples of more egalitarian societies growing much faster than comparable but more unequal societies. Despite being one of the most equal societies in the world, more equal than even the former Soviet bloc countries in the days of socialism, Finland has grown much faster than the US, one of the most unequal societies in the rich world"
+    },
+    {
+      "typ": "sport",
+      "titel": "Dagens sportfakta",
+      "ikon": "sportscourt.fill",
+      "text": "Live pigeon shooting was an Olympic event in the 1900 Summer Games in Paris",
+      "färg": "#1E90FF",
+      "detaljtext": "Hundreds of pigeons were reportedly released and then shot. Nearly 400 birds were killed and animal rights activists protested leading to the use of clay pigeons. (Who ever thought releasing live birds to be shot in front of a crowd was a good idea anyway?)"
+    },
+    {
+      "typ": "film & TV",
+      "titel": "Dagens kultur",
+      "ikon": "film.fill",
+      "text": "The oldest known musical instruments date back at least 35,000 years, including flutes made from bone. ",
+      "färg": "#1E90FF",
+      "detaljtext": "The oldest known musical instruments date back at least 35,000 years, including flutes made from bone. "
+    },
+    {
+      "typ": "citat",
+      "titel": "Dagens citat",
+      "ikon": "quote.bubble.fill",
+      "text": "“Be yourself",
+      "färg": "#1E90FF",
+      "detaljtext": " everyone else is already taken.”"
+    }
+  ],
+  "2025-06-30": [
+    {
+      "typ": "namn",
+      "titel": "Dagens namn",
+      "ikon": "person.crop.circle",
+      "text": "Elof, Leif ",
+      "färg": "#1E90FF",
+      "detaljtext": "Elof: Fornnordiskt ursprung, betyder \"ensam ättling\". Leif: Fornnordiskt ursprung, betyder \"arvinge\"."
+    },
+    {
+      "typ": "fun facts",
+      "titel": "Dagens fun fact",
+      "ikon": "lightbulb.fill",
+      "text": "Hajen är äldre än träden",
+      "färg": "#1E90FF",
+      "detaljtext": "Hajar har funnits i över 400 miljoner år, medan träd uppstod för cirka 350 miljoner år sedan."
+    },
+    {
+      "typ": "historia",
+      "titel": "Dagens historiska händelse",
+      "ikon": "clock.arrow.circlepath",
+      "text": "Muammar al-Gaddafi föddes, 1965",
+      "färg": "#1E90FF",
+      "detaljtext": "Gadaffi dog sedn 2010 under den arabiska våren"
+    },
+    {
+      "typ": "vetenskap",
+      "titel": "Dagens vetenskap",
+      "ikon": "atom",
+      "text": "Earth’s rotation is changing speed",
+      "färg": "#1E90FF",
+      "detaljtext": " It's actually slowing. This means that, on average, the length of a day increases by around 1.8 seconds per century. 600 million years ago a day lasted just 21 hours"
+    },
+    {
+      "typ": "ekonomi",
+      "titel": "Dagens ekonomifakta",
+      "ikon": "banknote.fill",
+      "text": "Finland, one of the most equal countries in the world, has grown faster than the US",
+      "färg": "#1E90FF",
+      "detaljtext": "Not only is there a lot of evidence showing that that higher inequality produces more negative economic and social outcomes, there are quite a few examples of more egalitarian societies growing much faster than comparable but more unequal societies. Despite being one of the most equal societies in the world, more equal than even the former Soviet bloc countries in the days of socialism, Finland has grown much faster than the US, one of the most unequal societies in the rich world"
+    },
+    {
+      "typ": "sport",
+      "titel": "Dagens sportfakta",
+      "ikon": "sportscourt.fill",
+      "text": "Live pigeon shooting was an Olympic event in the 1900 Summer Games in Paris",
+      "färg": "#1E90FF",
+      "detaljtext": "Hundreds of pigeons were reportedly released and then shot. Nearly 400 birds were killed and animal rights activists protested leading to the use of clay pigeons. (Who ever thought releasing live birds to be shot in front of a crowd was a good idea anyway?)"
+    },
+    {
+      "typ": "film & TV",
+      "titel": "Dagens kultur",
+      "ikon": "film.fill",
+      "text": "The oldest known musical instruments date back at least 35,000 years, including flutes made from bone. ",
+      "färg": "#1E90FF",
+      "detaljtext": "The oldest known musical instruments date back at least 35,000 years, including flutes made from bone. "
+    },
+    {
+      "typ": "citat",
+      "titel": "Dagens citat",
+      "ikon": "quote.bubble.fill",
+      "text": "“Be yourself",
+      "färg": "#1E90FF",
+      "detaljtext": " everyone else is already taken.”"
     }
   ]
 }
