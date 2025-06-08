@@ -67,7 +67,7 @@
   ],
   "2025-06-08": [
     {
-      "typ": "Namn",
+      "typ": "namn",
       "titel": "Dagens namn",
       "ikon": "person.crop.circle",
       "text": "Eivor, Majvor",
@@ -75,7 +75,7 @@
       "detaljtext": "Eivor: Fornnordiskt ursprung, betyder \"ödesgudinna\". Majvor: Svenskt namn, sammansättning av \"Maj\" och \"vor\" (kvinna)."
     },
     {
-      "typ": "Fun Facts",
+      "typ": "fun facts",
       "titel": "Dagens fun fact",
       "ikon": "lightbulb.fill",
       "text": "Bläckfiskar har tre hjärtan",
@@ -83,7 +83,7 @@
       "detaljtext": "Två pumpar blod till gälarna och det tredje till resten av kroppen."
     },
     {
-      "typ": "Historia",
+      "typ": "historia",
       "titel": "Dagens historiska händelse",
       "ikon": "clock.arrow.circlepath",
       "text": "Muammar al-Gaddafi föddes, 1943",
@@ -91,7 +91,7 @@
       "detaljtext": "Gadaffi dog sedn 2010 under den arabiska våren"
     },
     {
-      "typ": "Vetenskap",
+      "typ": "vetenskap",
       "titel": "Dagens vetenskap",
       "ikon": "atom",
       "text": "Earth’s rotation is changing speed",
@@ -99,7 +99,7 @@
       "detaljtext": " It's actually slowing. This means that, on average, the length of a day increases by around 1.8 seconds per century. 600 million years ago a day lasted just 21 hours"
     },
     {
-      "typ": "Ekonomi",
+      "typ": "ekonomi",
       "titel": "Dagens ekonomifakta",
       "ikon": "banknote.fill",
       "text": "Finland, one of the most equal countries in the world, has grown faster than the US",
@@ -107,7 +107,7 @@
       "detaljtext": "Not only is there a lot of evidence showing that that higher inequality produces more negative economic and social outcomes, there are quite a few examples of more egalitarian societies growing much faster than comparable but more unequal societies. Despite being one of the most equal societies in the world, more equal than even the former Soviet bloc countries in the days of socialism, Finland has grown much faster than the US, one of the most unequal societies in the rich world"
     },
     {
-      "typ": "Sport",
+      "typ": "sport",
       "titel": "Dagens sportfakta",
       "ikon": "sportscourt.fill",
       "text": "Live pigeon shooting was an Olympic event in the 1900 Summer Games in Paris",
@@ -115,7 +115,7 @@
       "detaljtext": "Hundreds of pigeons were reportedly released and then shot. Nearly 400 birds were killed and animal rights activists protested leading to the use of clay pigeons. (Who ever thought releasing live birds to be shot in front of a crowd was a good idea anyway?)"
     },
     {
-      "typ": "Kultur",
+      "typ": "kultur",
       "titel": "Dagens kultur",
       "ikon": "film.fill",
       "text": "The oldest known musical instruments date back at least 35,000 years, including flutes made from bone. ",
@@ -123,7 +123,7 @@
       "detaljtext": "The oldest known musical instruments date back at least 35,000 years, including flutes made from bone. "
     },
     {
-      "typ": "Citat",
+      "typ": "citat",
       "titel": "Dagens citat",
       "ikon": "quote.bubble.fill",
       "text": "“Be yourself",
